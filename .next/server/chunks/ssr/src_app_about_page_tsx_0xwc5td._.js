@@ -1,3 +1,0 @@
-module.exports=[3691,a=>{"use strict";var b=a.i(87924),c=a.i(72131);let d=()=>(0,b.jsx)("div",{children:"CONTACT YAYYYY"});a.s(["default",0,function(){let[a,e]=(0,c.useState)(!1);return((0,c.useEffect)(()=>{e(!0)},[]),a)?(0,b.jsx)(d,{}):(0,b.jsx)("div",{style:{minHeight:"100vh",width:"100%",background:"linear-gradient(45deg, rgb(59,33,2), rgb(59,33,2))"}})}],3691)}];
-
-//# sourceMappingURL=src_app_about_page_tsx_0xwc5td._.js.map
