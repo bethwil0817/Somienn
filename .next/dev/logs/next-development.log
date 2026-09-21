@@ -447,3 +447,791 @@
 {"timestamp":"01:54:48.013","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
 {"timestamp":"01:55:01.360","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
 {"timestamp":"01:55:01.361","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"01:57:39.369","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:49:48.757","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"20:14:11.726","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:14:11.728","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:14:50.537","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:14:50.538","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:15:09.028","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:15:09.028","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:15:32.059","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:15:32.059","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:17:30.797","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:17:30.798","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:17:56.682","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:17:56.684","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:18:14.573","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:18:14.573","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:18:34.808","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:18:34.808","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:18:43.809","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:18:43.810","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:19:25.109","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:19:25.109","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:19:38.510","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:19:38.510","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:19:42.494","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:19:42.495","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:19:58.165","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:19:58.166","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:21:42.175","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:21:42.176","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:22:00.668","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:22:00.668","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:22:01.260","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:22:01.262","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:22:29.028","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:22:29.029","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:22:46.694","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:22:46.695","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:23:03.976","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:23:03.976","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:23:11.826","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:23:11.827","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:23:19.312","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:23:19.315","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:24:10.184","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:24:10.186","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:24:16.771","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"20:25:13.646","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:25:13.647","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:26:06.050","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:26:06.051","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:26:13.977","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:26:13.977","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:26:38.995","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:26:38.996","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:26:54.793","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:26:54.793","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:27:02.783","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:27:02.784","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:27:12.142","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:27:12.142","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:27:26.962","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:27:26.963","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:27:37.513","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:27:37.514","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:28:24.961","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:28:24.962","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:28:50.415","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:28:50.416","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:28:58.861","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:28:58.861","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:29:14.455","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:29:14.461","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:29:25.994","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:29:25.995","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:29:28.887","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:29:28.889","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:29:38.571","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:29:38.571","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:30:15.429","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:30:15.431","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:30:32.797","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:30:32.798","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:30:41.271","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:30:41.272","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:30:52.465","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:30:52.465","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:31:23.844","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:31:23.844","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:33:10.821","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:33:10.823","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:33:18.122","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:33:18.122","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:34:10.267","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:34:10.269","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:34:28.213","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:34:28.213","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:34:32.811","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:34:32.812","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:34:41.548","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:34:41.549","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:34:53.751","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:34:53.752","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:35:50.916","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:35:50.917","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:39:29.071","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:39:29.081","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:40:09.979","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:40:09.980","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:40:41.742","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:40:41.742","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:40:50.585","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:40:50.585","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:41:01.087","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:41:01.089","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:41:26.295","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:41:26.296","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:41:41.184","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:41:41.185","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:42:00.551","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:42:00.552","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:42:51.201","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:42:51.241","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:43:18.618","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:43:18.618","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:43:27.216","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:43:27.217","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:43:33.185","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:43:33.186","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:43:39.787","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:43:39.787","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:43:59.968","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:43:59.968","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:44:38.845","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:44:38.860","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:44:55.900","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:44:55.901","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:46:16.438","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:46:16.438","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:46:24.405","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:46:24.405","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:46:34.237","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:46:34.237","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:46:43.889","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:46:43.889","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:47:19.625","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:47:19.625","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:47:48.252","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"20:47:48.253","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"20:50:14.635","source":"Server","level":"ERROR","message":"⨯ ./src/components/About.tsx\nError:   × Unexpected token `{`. Expected =\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\n 2 │ import { Footer } from \"./Footer\";\n 3 │ import { useState } from \"react\";\n 4 │ \n 5 │ type member {\n   ·             ─\n 6 │     heading: string,\n 7 │     paren: string,\n 8 │     paragraphs: string[]\n   ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/About.tsx\n./src/app/about/page.tsx"}
+{"timestamp":"20:50:22.755","source":"Server","level":"ERROR","message":"⨯ ./src/components/About.tsx\nError:   × Unexpected token `{`. Expected =\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\n 2 │ import { Footer } from \"./Footer\";\n 3 │ import { useState } from \"react\";\n 4 │ \n 5 │ type member {\n   ·             ─\n 6 │     heading: string,\n 7 │     paren: string,\n 8 │     paragraphs: string[],\n   ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/About.tsx\n./src/app/about/page.tsx"}
+{"timestamp":"21:01:44.301","source":"Browser","level":"ERROR","message":"./src/components/About.tsx\nError:   × Unexpected token `{`. Expected =\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\n 2 │ import { Footer } from \"./Footer\";\n 3 │ import { useState } from \"react\";\n 4 │ \n 5 │ type member {\n   ·             ─\n 6 │     heading: string,\n 7 │     paren: string,\n 8 │     paragraphs: string[]\n   ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"21:01:44.316","source":"Server","level":"ERROR","message":"[browser] \"./src/components/About.tsx\\nError:   × Unexpected token `{`. Expected =\\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\\n 2 │ import { Footer } from \\\"./Footer\\\";\\n 3 │ import { useState } from \\\"react\\\";\\n 4 │ \\n 5 │ type member {\\n   ·             ─\\n 6 │     heading: string,\\n 7 │     paren: string,\\n 8 │     paragraphs: string[]\\n   ╰────\\n\\nCaused by:\\n    Syntax Error\\n\\nImport trace for requested module:\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"21:01:44.317","source":"Browser","level":"ERROR","message":"./src/components/About.tsx\nError:   × Unexpected token `{`. Expected =\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\n 2 │ import { Footer } from \"./Footer\";\n 3 │ import { useState } from \"react\";\n 4 │ \n 5 │ type member {\n   ·             ─\n 6 │     heading: string,\n 7 │     paren: string,\n 8 │     paragraphs: string[]\n   ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"21:01:44.318","source":"Server","level":"ERROR","message":"[browser] \"./src/components/About.tsx\\nError:   × Unexpected token `{`. Expected =\\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\\n 2 │ import { Footer } from \\\"./Footer\\\";\\n 3 │ import { useState } from \\\"react\\\";\\n 4 │ \\n 5 │ type member {\\n   ·             ─\\n 6 │     heading: string,\\n 7 │     paren: string,\\n 8 │     paragraphs: string[]\\n   ╰────\\n\\nCaused by:\\n    Syntax Error\\n\\nImport trace for requested module:\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"21:01:44.318","source":"Browser","level":"ERROR","message":"./src/components/About.tsx\nError:   × Unexpected token `{`. Expected =\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\n 2 │ import { Footer } from \"./Footer\";\n 3 │ import { useState } from \"react\";\n 4 │ \n 5 │ type member {\n   ·             ─\n 6 │     heading: string,\n 7 │     paren: string,\n 8 │     paragraphs: string[],\n   ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"21:01:44.318","source":"Server","level":"ERROR","message":"[browser] \"./src/components/About.tsx\\nError:   × Unexpected token `{`. Expected =\\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\\n 2 │ import { Footer } from \\\"./Footer\\\";\\n 3 │ import { useState } from \\\"react\\\";\\n 4 │ \\n 5 │ type member {\\n   ·             ─\\n 6 │     heading: string,\\n 7 │     paren: string,\\n 8 │     paragraphs: string[],\\n   ╰────\\n\\nCaused by:\\n    Syntax Error\\n\\nImport trace for requested module:\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"21:01:44.318","source":"Browser","level":"ERROR","message":"./src/components/About.tsx\nError:   × Unexpected token `{`. Expected =\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\n 2 │ import { Footer } from \"./Footer\";\n 3 │ import { useState } from \"react\";\n 4 │ \n 5 │ type member {\n   ·             ─\n 6 │     heading: string,\n 7 │     paren: string,\n 8 │     paragraphs: string[],\n   ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"21:01:44.318","source":"Server","level":"ERROR","message":"[browser] \"./src/components/About.tsx\\nError:   × Unexpected token `{`. Expected =\\n   ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/About.tsx:5:1]\\n 2 │ import { Footer } from \\\"./Footer\\\";\\n 3 │ import { useState } from \\\"react\\\";\\n 4 │ \\n 5 │ type member {\\n   ·             ─\\n 6 │     heading: string,\\n 7 │     paren: string,\\n 8 │     paragraphs: string[],\\n   ╰────\\n\\nCaused by:\\n    Syntax Error\\n\\nImport trace for requested module:\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"21:01:44.318","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.318","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.318","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.319","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.319","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.319","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.319","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.319","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.319","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.319","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.320","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.320","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.323","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.328","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.332","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.338","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.338","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.339","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.375","source":"Browser","level":"ERROR","message":"Each child in a list should have a unique \"key\" prop.\n\nCheck the render method of `About`. See https://react.dev/link/warning-keys for more information. "}
+{"timestamp":"21:01:44.376","source":"Server","level":"ERROR","message":"[browser] \"Each child in a list should have a unique \\\"key\\\" prop.\\n\\nCheck the render method of `About`. See https://react.dev/link/warning-keys for more information.\" \"\""}
+{"timestamp":"21:01:44.376","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.376","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.376","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.376","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.435","source":"Browser","level":"ERROR","message":"An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. "}
+{"timestamp":"21:01:44.435","source":"Server","level":"ERROR","message":"[browser] \"An empty string (\\\"\\\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.\" \"\""}
+{"timestamp":"21:01:44.435","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.435","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:44.435","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:44.435","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:01:59.407","source":"Browser","level":"ERROR","message":"An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. "}
+{"timestamp":"21:01:59.408","source":"Server","level":"ERROR","message":"[browser] \"An empty string (\\\"\\\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.\" \"\""}
+{"timestamp":"21:01:59.464","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:01:59.464","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:03:22.687","source":"Browser","level":"ERROR","message":"An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. "}
+{"timestamp":"21:03:22.688","source":"Server","level":"ERROR","message":"[browser] \"An empty string (\\\"\\\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.\" \"\""}
+{"timestamp":"21:03:22.777","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:03:22.778","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:03:31.407","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:03:31.407","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:03:50.090","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:03:50.090","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:04:11.821","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:04:11.822","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:04:34.204","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"21:20:44.486","source":"Browser","level":"ERROR","message":"An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. "}
+{"timestamp":"21:20:44.493","source":"Server","level":"ERROR","message":"[browser] \"An empty string (\\\"\\\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.\" \"\""}
+{"timestamp":"21:21:41.235","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:21:41.255","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:22:34.675","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:22:34.703","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:22:46.767","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:22:46.767","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:22:58.950","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:22:58.950","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:23:13.948","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:23:13.949","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:23:26.048","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:23:26.048","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:23:46.167","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:23:46.167","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:23:56.667","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:23:56.667","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:24:05.781","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:24:05.782","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:24:25.671","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:24:25.672","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:24:31.947","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"21:24:31.948","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"21:31:51.872","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"21:39:45.681","source":"Browser","level":"ERROR","message":"An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. "}
+{"timestamp":"21:39:45.723","source":"Server","level":"ERROR","message":"[browser] \"An empty string (\\\"\\\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.\" \"\""}
+{"timestamp":"49:56:44.138","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"49:56:44.253","source":"Browser","level":"ERROR","message":"An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. "}
+{"timestamp":"49:56:44.255","source":"Server","level":"ERROR","message":"[browser] \"An empty string (\\\"\\\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.\" \"\""}
+{"timestamp":"50:02:03.617","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:02:03.619","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:02:03.620","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:02:03.620","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:02:03.621","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:02:03.621","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:02:07.319","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:02:07.320","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:02:10.577","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:02:29.125","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:02:29.126","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:02:42.083","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:02:42.083","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:03:05.561","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:03:30.888","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:03:30.888","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:06:46.937","source":"Server","level":"ERROR","message":"⨯ ./src/images/chris.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\n\nImport trace for requested module:\n./src/images/chris.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx"}
+{"timestamp":"50:06:50.220","source":"Server","level":"ERROR","message":"⨯ ./src/images/chris.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\n\nImport trace for requested module:\n./src/images/chris.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx"}
+{"timestamp":"50:06:57.183","source":"Server","level":"ERROR","message":"⨯ ./src/images/chris.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\n\nImport trace for requested module:\n./src/images/chris.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx"}
+{"timestamp":"50:07:09.093","source":"Browser","level":"ERROR","message":"./src/images/chris.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\n\nImport trace for requested module:\n./src/images/chris.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"50:07:09.098","source":"Server","level":"ERROR","message":"[browser] \"./src/images/chris.jpg\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\\n\\nImport trace for requested module:\\n./src/images/chris.jpg\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"50:07:09.098","source":"Browser","level":"ERROR","message":"./src/images/chris.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\n\nImport trace for requested module:\n./src/images/chris.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"50:07:09.098","source":"Server","level":"ERROR","message":"[browser] \"./src/images/chris.jpg\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\\n\\nImport trace for requested module:\\n./src/images/chris.jpg\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"50:07:09.098","source":"Browser","level":"ERROR","message":"./src/images/chris.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\n\nImport trace for requested module:\n./src/images/chris.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"50:07:09.098","source":"Server","level":"ERROR","message":"[browser] \"./src/images/chris.jpg\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\\n\\nImport trace for requested module:\\n./src/images/chris.jpg\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"50:07:09.099","source":"Browser","level":"ERROR","message":"./src/images/jeannye.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/jeannye.jpg'\n\nImport trace for requested module:\n./src/images/jeannye.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"50:07:09.099","source":"Server","level":"ERROR","message":"[browser] \"./src/images/jeannye.jpg\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/jeannye.jpg'\\n\\nImport trace for requested module:\\n./src/images/jeannye.jpg\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"50:07:09.099","source":"Browser","level":"ERROR","message":"./src/images/chris.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\n\nImport trace for requested module:\n./src/images/chris.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"50:07:09.099","source":"Server","level":"ERROR","message":"[browser] \"./src/images/chris.jpg\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/chris.jpg'\\n\\nImport trace for requested module:\\n./src/images/chris.jpg\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"50:07:09.100","source":"Browser","level":"ERROR","message":"./src/images/jeannye.jpg\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/jeannye.jpg'\n\nImport trace for requested module:\n./src/images/jeannye.jpg\n./src/components/About.tsx\n./src/app/about/page.tsx "}
+{"timestamp":"50:07:09.100","source":"Server","level":"ERROR","message":"[browser] \"./src/images/jeannye.jpg\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/jeannye.jpg'\\n\\nImport trace for requested module:\\n./src/images/jeannye.jpg\\n./src/components/About.tsx\\n./src/app/about/page.tsx\" \"\""}
+{"timestamp":"50:07:09.265","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:07:09.265","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:07:11.770","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:08:19.605","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:08:19.607","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:08:23.066","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:08:34.641","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:08:34.657","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:09:15.086","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:09:15.090","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:09:18.700","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:09:35.254","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:09:35.254","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:09:54.580","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:09:54.581","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:09:56.870","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:11:01.567","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:11:01.603","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:11:07.616","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:11:07.616","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:11:36.791","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:11:36.792","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:12:13.053","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:12:13.054","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:12:33.042","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:12:33.044","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:12:42.495","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:12:42.502","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:13:39.641","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:14:15.426","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:14:15.433","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:16:30.385","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:16:30.387","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:16:42.705","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:16:42.706","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:17:17.023","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:17:17.024","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:17:46.408","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:17:46.410","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:17:49.690","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:17:49.690","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:18:59.320","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:18:59.320","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:19:38.120","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:19:38.120","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:19:50.824","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:20:35.156","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:20:35.156","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:21:58.840","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:21:58.842","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:22:11.275","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:22:11.276","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:22:19.008","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:22:19.009","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:23:15.174","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:23:15.174","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:25:07.842","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:25:07.844","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:25:22.491","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:25:22.493","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:25:42.497","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:25:42.501","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:25:48.290","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:26:51.397","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:26:51.398","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:27:14.283","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:27:14.284","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:27:25.561","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:27:25.562","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:27:41.305","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:28:05.543","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:28:05.544","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:28:07.844","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:28:24.243","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:28:56.794","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:28:56.795","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:28:59.284","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:29:15.563","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:29:15.564","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:29:19.057","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:29:51.895","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:29:51.896","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:29:58.632","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:29:58.634","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:30:03.006","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:30:03.007","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:30:34.963","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload"}
+{"timestamp":"50:30:35.665","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:30:50.522","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:30:50.524","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:30:54.099","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:30:54.099","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:31:36.978","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:31:36.978","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:31:52.402","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:31:52.402","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:31:59.458","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:31:59.460","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:32:01.950","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:32:01.951","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:35:59.236","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:35:59.242","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:35:59.243","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:35:59.244","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:35:59.244","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:35:59.244","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:36:01.832","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:36:01.833","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:36:05.826","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:36:09.659","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:36:09.660","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:37:48.457","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:37:48.459","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:37:56.165","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:37:56.165","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:38:20.929","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:38:20.930","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:38:40.955","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:38:40.956","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:38:55.856","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:38:55.856","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:39:03.179","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:39:03.179","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:39:15.455","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:39:15.455","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:39:23.943","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:39:23.945","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:39:25.912","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:39:25.912","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:39:43.713","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:39:43.713","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:40:17.183","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:40:17.183","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:40:43.382","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:40:43.383","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:46:10.339","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:46:10.341","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:46:10.986","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:46:10.987","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:46:23.348","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:46:23.348","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:46:35.301","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:46:35.302","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:49:47.573","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:49:47.575","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:50:04.281","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:50:04.298","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:50:15.210","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:50:15.210","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:50:23.655","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:50:23.655","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:50:40.604","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:50:40.604","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:50:51.535","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:50:51.536","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:50:57.335","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:50:57.337","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:51:18.522","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:51:18.522","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:51:32.250","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:51:32.251","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:51:41.918","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"50:51:41.918","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"50:56:38.089","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"50:56:40.234","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"51:01:33.505","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:01:33.507","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:01:33.760","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:01:33.760","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:01:40.872","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:01:40.872","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:01:51.973","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:01:51.973","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:03:00.953","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:03:00.954","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:03:10.659","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:03:10.660","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:03:29.244","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:03:29.249","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:04:37.132","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:04:37.133","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:05:16.433","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:05:16.434","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:05:45.175","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:05:45.176","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:05:54.295","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:05:54.295","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:06:09.392","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:06:09.392","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:06:38.361","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:06:38.361","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:06:41.001","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:06:41.002","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:06:54.634","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:06:54.635","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:07:06.161","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:07:06.161","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:08:09.022","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:08:09.023","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:08:15.752","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:08:15.758","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:08:25.734","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:08:25.734","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:08:54.295","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:08:54.295","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:08:58.344","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:08:58.350","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:09:15.340","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:09:15.341","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:12:47.814","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:12:47.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:12:47.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:12:47.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:12:47.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:12:47.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:13:08.641","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:13:08.641","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:13:49.634","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:13:49.635","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:19:48.584","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:19:48.585","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:19:49.005","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:19:49.005","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:19:53.738","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:19:53.739","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:20:12.101","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:20:12.102","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:20:19.232","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:20:19.232","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:20:34.634","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:20:34.636","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:23:02.212","source":"Server","level":"ERROR","message":"⨯ ./src/images/locati.png\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\n\nImport trace for requested module:\n./src/images/locati.png\n./src/components/Services.tsx\n./src/app/services/page.tsx"}
+{"timestamp":"51:23:10.182","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:23:10.185","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:23:10.185","source":"Browser","level":"ERROR","message":"./src/images/locati.png\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\n\nImport trace for requested module:\n./src/images/locati.png\n./src/components/Services.tsx\n./src/app/services/page.tsx "}
+{"timestamp":"51:23:10.185","source":"Server","level":"ERROR","message":"[browser] \"./src/images/locati.png\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\\n\\nImport trace for requested module:\\n./src/images/locati.png\\n./src/components/Services.tsx\\n./src/app/services/page.tsx\" \"\""}
+{"timestamp":"51:23:10.185","source":"Browser","level":"ERROR","message":"./src/images/locati.png\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\n\nImport trace for requested module:\n./src/images/locati.png\n./src/components/Services.tsx\n./src/app/services/page.tsx "}
+{"timestamp":"51:23:10.185","source":"Server","level":"ERROR","message":"[browser] \"./src/images/locati.png\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\\n\\nImport trace for requested module:\\n./src/images/locati.png\\n./src/components/Services.tsx\\n./src/app/services/page.tsx\" \"\""}
+{"timestamp":"51:23:10.185","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:23:10.185","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.817","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.818","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.818","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.819","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.819","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.820","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.820","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.821","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.821","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.821","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.821","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.821","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.821","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.823","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.823","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.823","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.823","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.823","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.823","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.823","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.824","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.824","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.824","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.824","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.824","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.824","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.824","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.824","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.824","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.824","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.824","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.824","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:54.825","source":"Browser","level":"ERROR","message":"./src/images/locati.png\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\n\nImport trace for requested module:\n./src/images/locati.png\n./src/components/Services.tsx\n./src/app/services/page.tsx "}
+{"timestamp":"51:24:54.825","source":"Server","level":"ERROR","message":"[browser] \"./src/images/locati.png\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\\n\\nImport trace for requested module:\\n./src/images/locati.png\\n./src/components/Services.tsx\\n./src/app/services/page.tsx\" \"\""}
+{"timestamp":"51:24:54.825","source":"Browser","level":"ERROR","message":"./src/images/locati.png\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\n\nImport trace for requested module:\n./src/images/locati.png\n./src/components/Services.tsx\n./src/app/services/page.tsx "}
+{"timestamp":"51:24:54.825","source":"Server","level":"ERROR","message":"[browser] \"./src/images/locati.png\\nError: ENOENT: no such file or directory, open '/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/images/locati.png'\\n\\nImport trace for requested module:\\n./src/images/locati.png\\n./src/components/Services.tsx\\n./src/app/services/page.tsx\" \"\""}
+{"timestamp":"51:24:54.826","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:24:54.826","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:24:56.946","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"51:24:57.466","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"51:51:06.002","source":"Server","level":"ERROR","message":"⨯ ./src/components/Services.tsx\nError:   × Expected '</', got ';'\n     ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/Services.tsx:178:1]\n 175 │                                                                 <div></div>\n 176 │                                                                 <div></div>\n 177 │                                                             </div>\n 178 │                                                         );\n     ·                                                          ─\n 179 │                         )}\n 180 │                         \n 181 │                     </div>\n     ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/Services.tsx\n./src/app/services/page.tsx"}
+{"timestamp":"51:52:54.394","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:52:54.403","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:52:54.405","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:52:54.405","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:52:54.406","source":"Browser","level":"ERROR","message":"./src/components/Services.tsx\nError:   × Expected '</', got ';'\n     ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/Services.tsx:178:1]\n 175 │                                                                 <div></div>\n 176 │                                                                 <div></div>\n 177 │                                                             </div>\n 178 │                                                         );\n     ·                                                          ─\n 179 │                         )}\n 180 │                         \n 181 │                     </div>\n     ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/Services.tsx\n./src/app/services/page.tsx "}
+{"timestamp":"51:52:54.406","source":"Server","level":"ERROR","message":"[browser] \"./src/components/Services.tsx\\nError:   × Expected '</', got ';'\\n     ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/Services.tsx:178:1]\\n 175 │                                                                 <div></div>\\n 176 │                                                                 <div></div>\\n 177 │                                                             </div>\\n 178 │                                                         );\\n     ·                                                          ─\\n 179 │                         )}\\n 180 │                         \\n 181 │                     </div>\\n     ╰────\\n\\nCaused by:\\n    Syntax Error\\n\\nImport trace for requested module:\\n./src/components/Services.tsx\\n./src/app/services/page.tsx\" \"\""}
+{"timestamp":"51:52:54.406","source":"Browser","level":"ERROR","message":"./src/components/Services.tsx\nError:   × Expected '</', got ';'\n     ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/Services.tsx:178:1]\n 175 │                                                                 <div></div>\n 176 │                                                                 <div></div>\n 177 │                                                             </div>\n 178 │                                                         );\n     ·                                                          ─\n 179 │                         )}\n 180 │                         \n 181 │                     </div>\n     ╰────\n\nCaused by:\n    Syntax Error\n\nImport trace for requested module:\n./src/components/Services.tsx\n./src/app/services/page.tsx "}
+{"timestamp":"51:52:54.407","source":"Server","level":"ERROR","message":"[browser] \"./src/components/Services.tsx\\nError:   × Expected '</', got ';'\\n     ╭─[/Users/bethwillner/Library/Mobile Documents/com~apple~CloudDocs/Someinn/src/components/Services.tsx:178:1]\\n 175 │                                                                 <div></div>\\n 176 │                                                                 <div></div>\\n 177 │                                                             </div>\\n 178 │                                                         );\\n     ·                                                          ─\\n 179 │                         )}\\n 180 │                         \\n 181 │                     </div>\\n     ╰────\\n\\nCaused by:\\n    Syntax Error\\n\\nImport trace for requested module:\\n./src/components/Services.tsx\\n./src/app/services/page.tsx\" \"\""}
+{"timestamp":"51:52:54.507","source":"Browser","level":"ERROR","message":"Each child in a list should have a unique \"key\" prop.\n\nCheck the render method of `Services`. See https://react.dev/link/warning-keys for more information. "}
+{"timestamp":"51:52:54.507","source":"Server","level":"ERROR","message":"[browser] \"Each child in a list should have a unique \\\"key\\\" prop.\\n\\nCheck the render method of `Services`. See https://react.dev/link/warning-keys for more information.\" \"\""}
+{"timestamp":"51:52:54.508","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:52:54.508","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:52:54.508","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:52:54.508","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:52:54.508","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:52:54.508","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:53:20.924","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:53:20.931","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:53:30.945","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:53:30.946","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:53:44.812","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:53:44.813","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:54:03.508","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:54:03.509","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:54:25.156","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:54:25.159","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:54:40.731","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:54:40.731","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:54:54.094","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:54:54.095","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:55:01.541","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:55:01.541","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:55:24.900","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:55:24.901","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:55:39.360","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:55:39.361","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:56:25.909","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:56:25.910","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:56:36.793","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:56:36.794","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:56:54.117","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:56:54.117","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:57:15.597","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:57:15.597","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:57:27.746","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:57:27.746","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:57:51.482","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:57:51.483","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:58:37.449","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:58:37.450","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:58:59.088","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:58:59.090","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:59:39.897","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:59:39.898","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"51:59:57.832","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"51:59:57.834","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:00:22.704","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:00:22.705","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:01:05.327","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:01:05.335","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:01:12.968","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:01:12.969","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:01:35.139","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:01:35.139","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:02:26.651","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:02:26.651","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:02:35.334","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:02:35.334","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:02:57.199","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:02:57.200","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:03:33.619","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:03:33.619","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:03:47.348","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:03:47.349","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:03:58.714","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:03:58.715","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:04:04.155","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:04:04.156","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:05:41.456","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:05:41.478","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:07:46.225","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:07:46.228","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:07:46.230","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:07:46.231","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:07:46.232","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:07:46.233","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:07:56.284","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:07:56.286","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:08:04.738","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:08:04.739","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:08:13.176","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:08:13.177","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:08:41.184","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:08:41.204","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:08:46.516","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:08:46.516","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:09:32.379","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:09:32.380","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:09:44.942","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:09:44.942","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:09:56.517","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:09:56.517","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:10:11.199","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:10:11.199","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:10:27.617","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:10:27.618","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:10:58.931","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:10:58.933","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:13:08.800","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:13:08.802","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:13:08.803","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:13:08.803","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:13:20.769","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:13:20.770","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:13:58.891","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:13:58.891","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:14:05.238","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:14:05.238","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:14:40.597","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:14:40.598","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:14:50.021","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:14:50.022","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:18:52.990","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:18:52.992","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:18:53.012","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:18:53.013","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:18:53.013","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:18:53.013","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:18:53.013","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:18:53.013","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:18:53.176","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:18:53.177","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:19:04.864","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:19:04.867","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:20:51.535","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:20:51.551","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:20:51.552","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:20:51.552","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:20:51.552","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:20:51.553","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:26:24.170","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:26:24.174","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:26:24.175","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:26:24.176","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:26:24.178","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:26:24.179","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:26:34.102","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:26:34.122","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:26:45.116","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:26:45.117","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:28:52.862","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:28:52.863","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:28:52.863","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:28:52.863","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:28:52.864","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:28:52.864","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:29:23.950","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:29:23.950","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:29:38.877","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:29:38.878","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:30:17.435","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:30:17.436","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:30:21.391","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:30:21.395","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:30:29.321","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:30:29.321","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:30:38.747","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:30:38.756","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:31:53.386","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:31:53.387","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:32:58.141","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:32:58.142","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:33:22.797","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:33:22.798","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:38:03.157","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:38:03.157","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:38:16.336","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:38:16.336","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:38:20.300","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:38:21.987","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:38:53.627","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:38:53.629","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:38:55.489","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:38:56.332","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:39:01.749","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:39:27.283","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:39:27.284","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:39:30.030","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:39:31.043","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:40:21.117","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:40:21.118","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:40:34.324","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:40:34.325","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:41:03.143","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:41:03.143","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:41:15.268","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:41:15.269","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:41:17.364","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:41:20.490","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:43:08.649","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:43:08.652","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:43:28.430","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"52:43:28.432","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"52:43:31.931","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:43:32.892","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"52:43:37.389","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}

@@ -97,7 +97,7 @@ export const App = () => {
 					</div>
 				</div>
 				<div
-					className="bg-[#545454] p-6 py-10 mt-20"
+					className="bg-[#545454] p-6 py-10 mt-20 m-8 rounded-[2rem]"
 					style={{ fontFamily: "var(--font-open-sans)" }}
 				>
 					<div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-[1200px] mx-auto">

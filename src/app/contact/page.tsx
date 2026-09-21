@@ -16,7 +16,8 @@ export default function NextContactPage() {
 				style={{
 					minHeight: "100vh",
 					width: "100%",
-					background: "linear-gradient(45deg, rgb(59,33,2), rgb(59,33,2))",
+					background:
+						"linear-gradient(45deg, rgb(255,255,255), rgb(255,255,255)",
 				}}
 			/>
 		);

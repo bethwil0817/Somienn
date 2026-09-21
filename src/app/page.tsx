@@ -17,7 +17,7 @@ export default function NextHomePage() {
 					minHeight: "100vh",
 					width: "100%",
 					background:
-						"linear-gradient(45deg, rgb(10, 25, 15), rgb(86, 109, 94))",
+						"linear-gradient(45deg, rgb(255,255,255), rgb(255,255,255)",
 				}}
 			/>
 		);
