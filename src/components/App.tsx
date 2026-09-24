@@ -111,6 +111,7 @@ export const App = () => {
 									className="rounded-lg shadow-lg object-contain"
 									src={biopic.src}
 									alt="Jeannye and Chris"
+									loading="lazy"
 								/>
 							</Reveal>
 						</div>
@@ -170,6 +171,7 @@ export const App = () => {
 									onClick={() => {
 										window.open("https://quickbooks.intuit.com/accountants/");
 									}}
+									loading="lazy"
 									src={quickLogo.src}
 								/>
 							</div>

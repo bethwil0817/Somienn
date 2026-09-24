@@ -10,14 +10,17 @@ export const Footer = () => {
 				<div className="grid grid-cols-1 grid-cols-3 place-items-center align-middle h-full relative w-full my-auto gap-4 md:border-r md:border-r-[#fed11f]">
 					<img
 						src={badge2.src}
+						loading="lazy"
 						className="w-auto h-auto max-h-[150px] md:max-h-none"
 					/>
 					<img
 						src={badge3.src}
+						loading="lazy"
 						className="w-auto h-auto max-h-[150px] md:max-h-none"
 					/>
 					<img
 						src={badge.src}
+						loading="lazy"
 						className="w-auto h-auto max-h-[150px] md:max-h-none"
 					/>
 				</div>
