@@ -1569,3 +1569,15 @@
 {"timestamp":"125:27:32.321","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
 {"timestamp":"125:42:54.965","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
 {"timestamp":"125:42:58.452","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"147:31:27.973","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"147:31:27.979","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"147:31:27.979","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"147:31:27.980","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"147:32:10.089","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"147:32:10.090","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"147:32:19.665","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"147:32:19.665","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"147:32:36.480","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"147:32:36.482","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}
+{"timestamp":"147:32:50.725","source":"Browser","level":"ERROR","message":"⨯ unhandledRejection: [object Event] \n"}
+{"timestamp":"147:32:50.725","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m\\\"⨯ unhandledRejection:\\\"\\u001b[39m\" \"[object Event]\" \"\\n\\u001b[31m\\u001b[39m\""}

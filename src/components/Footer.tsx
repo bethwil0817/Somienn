@@ -39,28 +39,28 @@ export const Footer = () => {
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
 						<Link
-							className="text-[20px] text-[#fed11f] hover:text-[#ffe993]"
+							className="text-base md:text-[20px] text-[#fed11f] hover:text-[#ffe993]"
 							href="/"
 						>
 							Home
 						</Link>
 						<div className="text-white">|</div>
 						<Link
-							className="text-[20px] text-[#fed11f] hover:text-[#ffe993]"
+							className="text-base md:text-[20px] text-[#fed11f] hover:text-[#ffe993]"
 							href="/services"
 						>
 							Services
 						</Link>
 						<div className="text-white">|</div>
 						<Link
-							className="text-[20px] text-[#fed11f] hover:text-[#ffe993]"
+							className="text-base md:text-[20px] text-[#fed11f] hover:text-[#ffe993]"
 							href="/about"
 						>
 							About
 						</Link>
 						<div className="text-white">|</div>
 						<Link
-							className="text-[20px] text-[#fed11f] hover:text-[#ffe993]"
+							className="text-base md:text-[20px] text-[#fed11f] hover:text-[#ffe993]"
 							href="/contact"
 						>
 							Contact
