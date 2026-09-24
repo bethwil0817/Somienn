@@ -28,10 +28,14 @@ export const App = () => {
 					style={{ fontFamily: "var(--font-amaranth)" }}
 				>
 					<Reveal>
-						<div className="text-[110px] tracking-[-0.09em]">somienn</div>
+						<div className="text-[95px] md:text-[110px] tracking-[-0.09em]">
+							somienn
+						</div>
 					</Reveal>
 					<Reveal delayVal={1}>
-						<div className="text-[50px] italic">Bookeeping & Payroll</div>
+						<div className="text-[35px] md:text-[50px] italic">
+							Bookeeping & Payroll
+						</div>
 					</Reveal>
 				</div>
 			</div>
@@ -43,11 +47,11 @@ export const App = () => {
 						backgroundRepeat: "no-repeat",
 						backgroundPosition: "center",
 					}}
-					className="text-center p-6 text-[#545454] flex flex-col justify-center items-center mt-5 mx-auto max-w-[1000px]"
+					className="text-center p-6 text-[#545454] flex flex-col justify-center items-center md:mt-5 mx-auto max-w-[1200px]"
 				>
 					<Reveal delayVal={1.5}>
 						<div
-							className="text-[40px] tracking-wide text-center text-[#545454] mt-10"
+							className="text-[30px] md:text-[40px] tracking-wide text-center text-[#545454] mt-0 md:mt-10"
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Welcome to Somienn: Your Partners in Growth
@@ -55,7 +59,7 @@ export const App = () => {
 					</Reveal>
 					<Reveal delayVal={1.5}>
 						<div
-							className="text-[20px] mt-10"
+							className="text-base md:text-[20px] mt-10"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							At <strong>Somienn</strong>, we believe that when a business owner
@@ -69,7 +73,7 @@ export const App = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="text-[20px] mt-5"
+							className="text-base md:text-[20px] mt-5"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							We don't view ourselves as a distant, traditional agency. Instead,
@@ -81,12 +85,12 @@ export const App = () => {
 						style={{ fontFamily: "var(--font-open-sans)" }}
 					>
 						<Reveal>
-							<div className="text-[25px]">
+							<div className="text-[20px] md:text-[25px]">
 								We approach our work with a simple, dedicated motto:
 							</div>
 						</Reveal>
 						<Reveal>
-							<div className="text-[20px] mt-5 font-bold">
+							<div className="text-base md:text-[20px] mt-5 font-bold">
 								<ul className="flex flex-col gap-3">
 									<li>Professional bookkeeping</li>
 									<li>Trusted partnerships</li>
@@ -97,38 +101,38 @@ export const App = () => {
 					</div>
 				</div>
 				<div
-					className="bg-[#545454] p-6 py-10 mt-20 m-8 rounded-[2rem]"
+					className="bg-[#545454] p-4 md:p-6 py-10 mt-20 md:m-8 md:rounded-[2rem]"
 					style={{ fontFamily: "var(--font-open-sans)" }}
 				>
-					<div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-[1200px] mx-auto">
-						<div>
+					<div className="flex flex-col md:flex-row gap-10 max-w-[1200px] mx-auto">
+						<div className="md:w-[50%]">
 							<Reveal>
 								<img
-									className="rounded-lg shadow-lg"
+									className="rounded-lg shadow-lg object-contain"
 									src={biopic.src}
 									alt="Jeannye and Chris"
 								/>
 							</Reveal>
 						</div>
 
-						<div className="text-[20px] text-white flex text-center justify-center items-center flex-col gap-3">
+						<div className="md:w-[50%] text-[20px] text-white flex text-center justify-center items-center flex-col gap-3">
 							<Reveal>
 								<div
-									className="font-bold text-[35px] text-[#fed11f]"
+									className="font-bold text-[30px] lg:text-[35px] text-[#fed11f]"
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									Somienn is powered by the two of us:
 								</div>
 							</Reveal>
 							<Reveal>
-								<div className="flex gap-5 items-center justify-center text-[20px]">
+								<div className="flex flex-col md:flex-row gap-2 md:gap-5 items-center justify-center text-base lg:text-[20px]">
 									<div className="text-white text-[25px] flex flex-col">
 										<div>Jeannye</div>
-										<div className="text-base whitespace-nowrap text-[#fed11f]">
+										<div className="text-base lg:whitespace-nowrap text-[#fed11f]">
 											Based in Michigan
 										</div>
 									</div>
-									<div className="text-[#fed11f]">&</div>
+									<div className="text-white md:text-[#fed11f]">&</div>
 									<div className="text-white text-[25px] flex flex-col">
 										<div>Chris</div>
 										<div className="text-base whitespace-nowrap text-[#fed11f]">
@@ -138,7 +142,7 @@ export const App = () => {
 								</div>
 							</Reveal>
 							<Reveal>
-								<div className="text-[20px] mt-5">
+								<div className="text-base lg:text-[20px] mt-5">
 									Though we love our respective corners of the Midwest, we
 									operate completely in the cloud to serve small business owners
 									all across the United States.
@@ -148,11 +152,11 @@ export const App = () => {
 					</div>
 				</div>
 				<div
-					className="bg-white px-6 py-10 mt-10 mb-5 mx-auto"
+					className="bg-white px-6 py-6 md:py-10 mt-0 md:mt-10 mb-5 mx-auto"
 					style={{ fontFamily: "var(--font-open-sans)" }}
 				>
 					<Reveal>
-						<div className="grid text-center md:text-left grid-cols-1 md:grid-cols-2 lg:grid-cols-3 py-10  gap-4 lg:gap-8 text-[20px] w-full mx-auto  max-w-[1200px]">
+						<div className="grid text-center md:text-left grid-cols-1 md:grid-cols-2 lg:grid-cols-3 py-10  gap-4 lg:gap-8 text-base md:text-[20px] w-full mx-auto  max-w-[1200px]">
 							<div className="text-center w-full lg:col-span-2">
 								To deliver the smooth, modern experience you deserve,{" "}
 								<strong>QuickBooks Online</strong> is at the heart of everything
@@ -172,7 +176,7 @@ export const App = () => {
 						</div>
 					</Reveal>
 					<Reveal>
-						<div className="flex pt-20 px-6 flex-col border-t border-t-gray-300 text-center gap-8 mt-6 justify-center text-[20px] w-full mx-auto items-center max-w-[1200px]">
+						<div className="flex pt-10 md:pt-20 px-6 flex-col border-t border-t-gray-300 text-center gap-8 mt-6 justify-center text-base md:text-[20px] w-full mx-auto items-center max-w-[1200px]">
 							We pride ourselves on being accessible, warm, and highly
 							efficient. By designing smart, streamlined systems for your
 							business, we save you time and protect your bottom line. We want
@@ -182,7 +186,7 @@ export const App = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="text-center my-5 flex justify-center max-w-[1200px] items-center mx-auto text-[20px] font-bold"
+							className="text-center my-5 flex justify-center max-w-[1200px] items-center mx-auto text-base md:text-[20px] font-bold"
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Let's build something great together! We would love to get to know
@@ -193,7 +197,7 @@ export const App = () => {
 					</Reveal>
 					<Reveal>
 						<a
-							className="p-4 whitespace-nowrap rounded-lg text-[20px] flex justify-center max-w-[150px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
+							className="p-4 whitespace-nowrap rounded-lg text-lg md:text-[20px] flex justify-center max-w-[150px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
 							href="https://calendly.com/hello-somienn"
 							target="_blank"
 							style={{ fontFamily: "var(--font-amaranth)" }}

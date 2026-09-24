@@ -124,7 +124,7 @@ export const About = () => {
 			<Nav />
 			<div className="overflow-x-hidden! m-8 rounded-[1rem]">
 				<div
-					className={`py-15 border-b border-b-[#fed11f] text-center text-[#545454] text-[110px]`}
+					className={`py-8 md:py-15 border-b border-b-[#fed11f] text-center text-[#545454] text-[110px]`}
 					style={{ fontFamily: "var(--font-amaranth)" }}
 				>
 					<Reveal>
@@ -138,7 +138,7 @@ export const About = () => {
 				</div>
 				<Reveal delayVal={1}>
 					<div
-						className="text-[50px] text-center pt-15 mb-8"
+						className="text-[50px] text-center pt-6 md:pt-15 mb-6 md:mb-15"
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
 						Meet Our Team
@@ -155,7 +155,7 @@ export const About = () => {
 				<Reveal delayVal={1.7}>
 					<div className="flex gap-8 rounded-lg justify-center items-center mx-auto w-max text-center bg-[#faf2d0]">
 						<button
-							className={`py-4 px-10 hover:cursor-pointer text-[#545454] text-xl rounded-lg transition-all ease-in-out duration-300 ${selectedMember === "Jeannye" ? "bg-[#fed11f] font-bold" : "bg-[#ffea99]"} `}
+							className={`py-4 px-4 md:px-10 hover:cursor-pointer text-[#545454] text-xl rounded-lg transition-all ease-in-out duration-300 ${selectedMember === "Jeannye" ? "bg-[#fed11f] font-bold" : "bg-[#ffea99]"} `}
 							onClick={() => {
 								setSelectedMember("Jeannye");
 								setData(memberData[0]);
@@ -166,7 +166,7 @@ export const About = () => {
 						</button>
 						<p>&</p>
 						<button
-							className={`py-4 px-10 hover:cursor-pointer text-[#545454] text-xl rounded-lg transition-all ease-in-out duration-300 ${selectedMember === "Chris" ? "bg-[#fed11f] font-bold" : "bg-[#ffea99]"} `}
+							className={`py-4 px-4 md:px-10 hover:cursor-pointer text-[#545454] text-xl rounded-lg transition-all ease-in-out duration-300 ${selectedMember === "Chris" ? "bg-[#fed11f] font-bold" : "bg-[#ffea99]"} `}
 							onClick={() => {
 								setSelectedMember("Chris");
 								setData(memberData[1]);
@@ -178,11 +178,11 @@ export const About = () => {
 					</div>
 				</Reveal>
 				{selectedMember === "Chris" && (
-					<div className="mx-6 md:mx-10 rounded-2xl flex flex-col mt-15">
+					<div className="mx-6 md:mx-10 rounded-2xl flex flex-col mt-2 md:mt-5">
 						<div className="text-center">
 							<Reveal>
 								<h1
-									className={`pt-4 pb-0 px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-[30px]`}
+									className={`pt-4 pb-0 px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-[25px] md:text-[35px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									{data?.heading}
@@ -190,7 +190,7 @@ export const About = () => {
 							</Reveal>
 							<Reveal>
 								<h4
-									className={`px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-[20px]`}
+									className={`px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-base md:text-[20px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									{data?.paren}
@@ -209,7 +209,7 @@ export const About = () => {
 										className="w-full h-auto rounded-lg flex lg:hidden"
 									/>
 								</div>
-								<div className="lg:col-span-2 flex flex-col gap-3 w-full relative">
+								<div className="lg:col-span-2 flex flex-col gap-3 w-full relative text-sm md:text-base">
 									{data?.paragraphs.map((para, index) => (
 										<div key={index}>{para}</div>
 									))}
@@ -219,11 +219,12 @@ export const About = () => {
 					</div>
 				)}
 				{selectedMember === "Jeannye" && (
-					<div className="mx-6 md:mx-10 rounded-2xl flex flex-col mt-15">
+					<div className="mx-6 md:mx-10 rounded-2xl flex flex-col mt-2 md:mt-5">
 						<div className="text-center">
 							<Reveal>
 								<h1
-									className={`pt-4 pb-0 px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-[30px]`}
+									className={`pt-4 pb-0 px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454]  
+                                    text-[25px] md:text-[30px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									{data?.heading}
@@ -231,7 +232,7 @@ export const About = () => {
 							</Reveal>
 							<Reveal>
 								<h4
-									className={`px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-[20px]`}
+									className={`px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-base md:text-[20px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									{data?.paren}
@@ -250,7 +251,7 @@ export const About = () => {
 										className="w-full h-auto rounded-lg flex lg:hidden"
 									/>
 								</div>
-								<div className="lg:col-span-2 flex flex-col gap-3 w-full relative">
+								<div className="lg:col-span-2 flex flex-col gap-3 w-full relative text-sm md:text-base">
 									{data?.paragraphs.map((para, index) => (
 										<div key={index}>{para}</div>
 									))}

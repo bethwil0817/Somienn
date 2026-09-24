@@ -87,11 +87,11 @@ export const Services = () => {
 	return (
 		<div>
 			<Nav />
-			<div className="mb-20">
+			<div className="mb-20 px-4 md:px-6">
 				<div className="place-items-center ">
 					<Reveal>
 						<div
-							className={`pt-15 pb-6 text-center text-[#545454] text-[110px]`}
+							className={`pt-8 md:pt-15 pb-6 text-center text-[#545454] text-[75px]  md:text-[110px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Our Services
@@ -99,7 +99,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal delayVal={1}>
 						<div
-							className={`text-center text-[#fed11f] text-[40px]`}
+							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Financial Clarity & Total Peace of Mind
@@ -116,7 +116,7 @@ export const Services = () => {
 				</div>
 				<Reveal delayVal={1}>
 					<div
-						className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+						className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 						style={{ fontFamily: "var(--font-open-sans)" }}
 					>
 						At <strong>Somienn</strong>, we handle your financial management
@@ -128,7 +128,7 @@ export const Services = () => {
 				</Reveal>
 				<Reveal delayVal={1}>
 					<div
-						className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+						className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 						style={{ fontFamily: "var(--font-open-sans)" }}
 					>
 						We act as your dedicated, virtual back office—combining{" "}
@@ -142,7 +142,7 @@ export const Services = () => {
 				<div className="mt-25">
 					<Reveal>
 						<div
-							className={`text-center text-[#fed11f] text-[40px]`}
+							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Where We Are (And Who We Serve)
@@ -160,9 +160,9 @@ export const Services = () => {
 						className="mx-auto text-center"
 						style={{ fontFamily: "var(--font-open-sans)" }}
 					>
-						<div className="mt-5 text-[20px] text-[#545454]">
+						<div className="mt-5 text-base md:text-[20px] text-[#545454]">
 							<Reveal>
-								<div className="mt-5 text-[25px] font-bold text-[#545454]">
+								<div className="mt-5 text-[20px] md:text-[25px] font-bold text-[#545454]">
 									Our Team
 								</div>
 							</Reveal>
@@ -177,14 +177,14 @@ export const Services = () => {
 								</div>
 							</Reveal>
 						</div>
-						<div className="mt-5 text-[20px] text-[#545454]">
+						<div className="mt-5 text-base md:text-[20px] text-[#545454]">
 							<Reveal>
-								<div className="mt-5 text-[25px] font-bold text-[#545454]">
+								<div className="mt-5 text-[20px] md:text-[25px] font-bold text-[#545454]">
 									Our Clients
 								</div>
 							</Reveal>
 							<Reveal>
-								<div className="text-[20px] text-[#545454]">
+								<div className="text-base md:text-[20px] text-[#545454]">
 									Located anywhere in the U.S. via our secure cloud
 									infrastructure.
 								</div>
@@ -195,7 +195,7 @@ export const Services = () => {
 				<div>
 					<Reveal>
 						<div
-							className={`mt-25 text-center text-[#fed11f] text-[40px]`}
+							className={`mt-25 text-center text-[#fed11f] text-[30px] md:text-[40px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Powered by Modern Cloud Technology
@@ -209,7 +209,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							To give you a seamless and efficient experience,{" "}
@@ -225,7 +225,7 @@ export const Services = () => {
 				<div className="place-items-center mt-25 px-6 md:px-8">
 					<Reveal>
 						<div
-							className={`mt-25 text-center text-[#fed11f] text-[40px]`}
+							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Core Bookkeeping & Financial Health Services
@@ -239,7 +239,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							We tailor our daily, weekly, and monthly bookkeeping workflows to
@@ -256,14 +256,14 @@ export const Services = () => {
 								>
 									<Reveal>
 										<h1
-											className="text-black font-bold text-center text-[22px] transition-all ease-in-out duration-300"
+											className="text-black font-bold text-center text-lg md:text-[22px] transition-all ease-in-out duration-300"
 											style={{ fontFamily: "var(--font-amaranth)" }}
 										>
 											{data.head}
 										</h1>
 									</Reveal>
 									<Reveal>
-										<div className="text-[#545454] text-center text-[18px]">
+										<div className="text-[#545454] text-center text-sm md:text-[18px]">
 											{data.info}
 										</div>
 									</Reveal>
@@ -275,7 +275,7 @@ export const Services = () => {
 				<div className="mt-25 px-6 md:px-8">
 					<Reveal>
 						<div
-							className={`text-center text-[#fed11f] text-[40px]`}
+							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Catch-Up Bookkeeping & Clean-Up Services
@@ -291,7 +291,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							Behind on your books? Please don't stress—we are a completely
@@ -312,14 +312,14 @@ export const Services = () => {
 								>
 									<Reveal>
 										<h1
-											className="text-black font-bold text-center text-[22px] transition-all ease-in-out duration-300"
+											className="text-black font-bold text-center text-lg md:text-[22px] transition-all ease-in-out duration-300"
 											style={{ fontFamily: "var(--font-amaranth)" }}
 										>
 											{data.head}
 										</h1>
 									</Reveal>
 									<Reveal>
-										<div className="text-[#545454] text-center text-[18px]">
+										<div className="text-[#545454] text-center text-base md:text-[18px]">
 											{data.info}
 										</div>
 									</Reveal>
@@ -331,7 +331,7 @@ export const Services = () => {
 				<div className="mt-25 px-6 md:px-8">
 					<Reveal>
 						<div
-							className={`text-center text-[#fed11f] text-[40px]`}
+							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Strategic Insights & Reporting
@@ -347,7 +347,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							Data is only useful if it makes sense to you. We don't just hand
@@ -356,7 +356,7 @@ export const Services = () => {
 						</div>
 					</Reveal>
 					<Reveal>
-						<div className="grid grid-cols-2 mt-5 mx-auto gap-6 max-w-[1200px]">
+						<div className="grid grid-cols-1 md:grid-cols-2 mt-5 mx-auto gap-6 max-w-[1200px]">
 							{bookBulletData.map((data, index) => (
 								<div
 									key={index}
@@ -365,14 +365,14 @@ export const Services = () => {
 								>
 									<Reveal>
 										<h1
-											className="text-black font-bold text-center text-[22px] transition-all ease-in-out duration-300"
+											className="text-black font-bold text-center text-lg md:text-[22px] transition-all ease-in-out duration-300"
 											style={{ fontFamily: "var(--font-amaranth)" }}
 										>
 											{data.head}
 										</h1>
 									</Reveal>
 									<Reveal>
-										<div className="text-[#545454] text-center text-[18px]">
+										<div className="text-[#545454] text-center text-base md:text-[18px]">
 											{data.info}
 										</div>
 									</Reveal>
@@ -384,7 +384,7 @@ export const Services = () => {
 				<div className="mt-25 px-6 md:px-8">
 					<Reveal>
 						<div
-							className={`text-center text-[#fed11f] text-[40px]`}
+							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Seamless Payroll Management
@@ -400,7 +400,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							Taking care of your team should be simple. We handle your entire
@@ -408,7 +408,7 @@ export const Services = () => {
 						</div>
 					</Reveal>
 					<Reveal>
-						<div className="grid grid-cols-2 mt-5 mx-auto gap-6 mx-auto max-w-[1200px]">
+						<div className="grid grid-cols-1 md:grid-cols-2 mt-5 mx-auto gap-6 mx-auto max-w-[1200px]">
 							{seamlessBulletData.map((data, index) => (
 								<div
 									key={index}
@@ -417,14 +417,14 @@ export const Services = () => {
 								>
 									<Reveal>
 										<h1
-											className="text-black font-bold text-center text-[22px] transition-all ease-in-out duration-300"
+											className="text-black font-bold text-center text-lg md:text-[22px] transition-all ease-in-out duration-300"
 											style={{ fontFamily: "var(--font-amaranth)" }}
 										>
 											{data.head}
 										</h1>
 									</Reveal>
 									<Reveal>
-										<div className="text-[#545454] text-center text-[18px]">
+										<div className="text-[#545454] text-center text-base md:text-[18px]">
 											{data.info}
 										</div>
 									</Reveal>
@@ -436,7 +436,7 @@ export const Services = () => {
 				<div className="mt-25 px-6 md:px-8">
 					<Reveal>
 						<div
-							className={`text-center text-[#fed11f] text-[50px]`}
+							className={`text-center text-[#fed11f] text-[40px] md:text-[50px]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Let’s Simplify Your Finances Today!
@@ -444,7 +444,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] font-bold text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] font-bold text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							You build your business. We’ll take care of the numbers.
@@ -452,7 +452,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							Ready to hand over the spreadsheet stress to a partner you can
@@ -461,7 +461,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<div
-							className="max-w-[1200px] mb-5 text-[#545454] text-center text-[20px] mx-auto mt-8"
+							className="max-w-[1200px] mb-5 text-[#545454] text-center text-base md:text-[20px] mx-auto mt-8"
 							style={{ fontFamily: "var(--font-open-sans)" }}
 						>
 							<strong>Click below</strong> to schedule a friendly, casual, free
@@ -470,7 +470,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<a
-							className="p-4 whitespace-nowrap rounded-lg text-[25px] flex justify-center max-w-[180px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
+							className="p-4 whitespace-nowrap rounded-lg text-[20px] md:text-[25px] flex justify-center max-w-[180px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
 							href="https://calendly.com/hello-somienn"
 							target="_blank"
 							style={{ fontFamily: "var(--font-amaranth)" }}

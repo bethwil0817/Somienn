@@ -5,14 +5,17 @@ export const Nav = () => {
 	const [showMobileMenu, setShowMobileMenu] = useState(false);
 	return (
 		<div
-			className="bg-[#545454] text-white p-4 sticky top-0"
+			className="bg-[#545454] text-white p-4 sticky top-0 z-100"
 			style={{ fontFamily: "var(--font-amaranth)" }}
 		>
 			<div className="container mx-auto">
 				<div className="flex justify-between items-center">
-					<div className="text-4xl text-[#fed11f] font-bold tracking-[-0.08em]">
+					<Link
+						href="/"
+						className="text-4xl text-[#fed11f] font-bold tracking-[-0.08em]"
+					>
 						somienn
-					</div>
+					</Link>
 					<div className="block md:hidden">
 						<button
 							id="mobile-menu-button"
@@ -40,12 +43,6 @@ export const Nav = () => {
 					</div>
 					<div className="hidden md:flex space-x-20 mr-20 text-[#fed11f] text-xl">
 						<Link
-							href="/"
-							className="hover:text-white transition-all ease-in-out duration-300"
-						>
-							Home
-						</Link>
-						<Link
 							href="/services"
 							className="hover:text-white transition-all ease-in-out duration-300"
 						>
@@ -68,12 +65,6 @@ export const Nav = () => {
 				<div
 					className={`border-t border-t-white flex flex-col p-2 space-y-2 bg-[#5454547c] text-[#fed11f] text-xl ${showMobileMenu ? "flex" : "hidden"} md:hidden`}
 				>
-					<Link
-						href="/"
-						className="hover:text-white transition-all ease-in-out duration-300"
-					>
-						Home
-					</Link>
 					<Link
 						href="/services"
 						className="hover:text-white transition-all ease-in-out duration-300"
