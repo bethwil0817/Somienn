@@ -222,7 +222,7 @@ export const Services = () => {
 						</div>
 					</Reveal>
 				</div>
-				<div className="place-items-center mt-25 px-6 md:px-8">
+				<div className="place-items-center mt-25 px-2 md:px-8">
 					<Reveal>
 						<div
 							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
@@ -272,7 +272,7 @@ export const Services = () => {
 						</div>
 					</Reveal>
 				</div>
-				<div className="mt-25 px-6 md:px-8">
+				<div className="mt-25 px-2 md:px-8">
 					<Reveal>
 						<div
 							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
@@ -328,7 +328,7 @@ export const Services = () => {
 						</div>
 					</Reveal>
 				</div>
-				<div className="mt-25 px-6 md:px-8">
+				<div className="mt-25 px-2 md:px-8">
 					<Reveal>
 						<div
 							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
@@ -381,7 +381,7 @@ export const Services = () => {
 						</div>
 					</Reveal>
 				</div>
-				<div className="mt-25 px-6 md:px-8">
+				<div className="mt-25 px-2 md:px-8">
 					<Reveal>
 						<div
 							className={`text-center text-[#fed11f] text-[30px] md:text-[40px]`}
@@ -433,7 +433,7 @@ export const Services = () => {
 						</div>
 					</Reveal>
 				</div>
-				<div className="mt-25 px-6 md:px-8">
+				<div className="mt-25 px-2 md:px-8">
 					<Reveal>
 						<div
 							className={`text-center text-[#fed11f] text-[40px] md:text-[50px]`}
@@ -470,7 +470,7 @@ export const Services = () => {
 					</Reveal>
 					<Reveal>
 						<a
-							className="p-4 whitespace-nowrap rounded-lg text-[20px] flex justify-center max-w-[300px] md:max-w-[400px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
+							className="p-4 whitespace-nowrap rounded-lg text-lg md:text-[20px] flex justify-center max-w-[330px] md:max-w-[400px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
 							href="https://calendly.com/hello-somienn"
 							target="_blank"
 							style={{ fontFamily: "var(--font-amaranth)" }}

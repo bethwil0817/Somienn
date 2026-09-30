@@ -33,7 +33,7 @@ export const App = () => {
 							</div>
 						</Reveal>
 						<Reveal delayVal={1}>
-							<div className="text-[18px] sm:text-[30px] italic">
+							<div className="text-[25px] sm:text-[35px] italic">
 								Bookkeeping & Payroll
 							</div>
 						</Reveal>
@@ -52,7 +52,7 @@ export const App = () => {
 				>
 					<Reveal delayVal={1.5}>
 						<div
-							className=" text-[30px] md:text-[40px] tracking-wide text-center text-[#545454] mt-0 md:mt-10"
+							className=" text-[26px] md:text-[40px] tracking-wide text-center text-[#545454] mt-0 md:mt-10"
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Welcome to Somienn: Your Partners in Growth

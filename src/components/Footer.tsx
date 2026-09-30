@@ -32,7 +32,9 @@ export const Footer = () => {
 							className={`flex flex-col w-full relative justify-center items-center text-center text-[#fed11f]`}
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
-							<div className="text-[70px] tracking-[-0.09em]">somienn</div>
+							<div className="text-[70px] tracking-[-0.09em] -mb-6">
+								somienn
+							</div>
 							<div className="text-[20px] italic">Bookkeeping & Payroll</div>
 						</div>
 						<div
