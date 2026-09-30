@@ -6,10 +6,10 @@ export const Contact = () => {
 	return (
 		<div>
 			<Nav />
-			<div className="mb-15">
+			<div className="mb-15 px-6">
 				<Reveal>
 					<div
-						className={`pt-8 md:pt-15 pb-6 text-center text-[#545454] text-[75px] md:text-[110px] p-4`}
+						className={`pt-8 md:pt-15 pb-6 text-center text-[#545454] text-[75px] md:text-[110px]`}
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
 						Contact Us
@@ -17,7 +17,7 @@ export const Contact = () => {
 				</Reveal>
 				<Reveal>
 					<div
-						className={`pb-6 text-center text-[#fed11f] text-[30px] md:text-[50px] p-4`}
+						className={`pb-6 text-center text-[#fed11f] text-[30px] md:text-[50px]`}
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
 						Schedule a phone call with us!
@@ -25,7 +25,7 @@ export const Contact = () => {
 				</Reveal>
 				<Reveal>
 					<div
-						className={`pt-8 pb-6 text-center text-[#545454]  md:text-[20px] flex justify-center items-center mx-auto px-4 md:px-6 max-w-[1200px]`}
+						className={`pt-8 pb-6 text-center text-[#545454]  md:text-[20px] flex justify-center items-center mx-auto max-w-[1200px]`}
 						style={{ fontFamily: "var(--font-open-sans)" }}
 					>
 						Are you ready to take a step towards financial clarity and growth?
@@ -37,7 +37,7 @@ export const Contact = () => {
 				</Reveal>
 				<Reveal>
 					<a
-						className="p-4 whitespace-nowrap rounded-lg text-lg md:text-[20px] flex justify-center max-w-[300px] md:max-w-[400px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
+						className="p-4 whitespace-nowrap rounded-lg text-lg md:text-[20px] flex justify-center max-w-[330px] md:max-w-[400px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
 						href="https://calendly.com/hello-somienn"
 						target="_blank"
 						style={{ fontFamily: "var(--font-amaranth)" }}
