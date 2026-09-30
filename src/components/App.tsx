@@ -15,28 +15,29 @@ export const App = () => {
 		<div>
 			<Nav />
 			<div
-				className="w-full h-full"
+				className="w-full h-full bg-center sm:bg-[center_top_30%]"
 				style={{
 					backgroundImage: `linear-gradient(to bottom, rgb(255,255,255,.01), rgba(255,255,255,.9) 90%), url(${wallpaper3.src})`,
 					backgroundSize: "cover",
-					backgroundPosition: "center",
 					backgroundRepeat: "no-repeat",
 				}}
 			>
 				<div
-					className={`min-w-screen flex flex-col justify-center items-center min-h-[400px] text-center text-[#545454]`}
+					className={`min-w-screen flex flex-col mx-auto min-h-[300px] sm:min-h-[400px] text-center text-[#545454]`}
 					style={{ fontFamily: "var(--font-amaranth)" }}
 				>
-					<Reveal>
-						<div className="text-[95px] md:text-[110px] tracking-[-0.09em]">
-							somienn
-						</div>
-					</Reveal>
-					<Reveal delayVal={1}>
-						<div className="text-[35px] md:text-[50px] italic">
-							Bookeeping & Payroll
-						</div>
-					</Reveal>
+					<div className="mt-6">
+						<Reveal>
+							<div className="text-[95px] sm:text-[150px] tracking-[-0.09em] -mb-8 sm:-mb-10">
+								somienn
+							</div>
+						</Reveal>
+						<Reveal delayVal={1}>
+							<div className="text-[18px] sm:text-[30px] italic">
+								Bookkeeping & Payroll
+							</div>
+						</Reveal>
+					</div>
 				</div>
 			</div>
 			<div>
@@ -47,11 +48,11 @@ export const App = () => {
 						backgroundRepeat: "no-repeat",
 						backgroundPosition: "center",
 					}}
-					className="text-center p-6 text-[#545454] flex flex-col justify-center items-center md:mt-5 mx-auto max-w-[1200px]"
+					className="text-center p-6 text-[#545454] flex flex-col justify-center items-center mx-auto max-w-[1200px]"
 				>
 					<Reveal delayVal={1.5}>
 						<div
-							className="text-[30px] md:text-[40px] tracking-wide text-center text-[#545454] mt-0 md:mt-10"
+							className=" text-[30px] md:text-[40px] tracking-wide text-center text-[#545454] mt-0 md:mt-10"
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							Welcome to Somienn: Your Partners in Growth
@@ -199,12 +200,12 @@ export const App = () => {
 					</Reveal>
 					<Reveal>
 						<a
-							className="p-4 whitespace-nowrap rounded-lg text-lg md:text-[20px] flex justify-center max-w-[150px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
+							className="p-4 whitespace-nowrap rounded-lg text-lg md:text-[20px] flex justify-center max-w-[300px] md:max-w-[400px] mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
 							href="https://calendly.com/hello-somienn"
 							target="_blank"
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
-							Meet With Us
+							Schedule Now for a Free Consultation
 						</a>
 					</Reveal>
 				</div>

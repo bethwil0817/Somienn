@@ -2,6 +2,8 @@ import Link from "next/link";
 import badge from "../images/badge.png";
 import badge2 from "../images/badge2.png";
 import badge3 from "../images/badge3.png";
+import phone from "../images/phonetran.png";
+import email from "../images/emailtran.png";
 
 export const Footer = () => {
 	return (
@@ -31,7 +33,26 @@ export const Footer = () => {
 							style={{ fontFamily: "var(--font-amaranth)" }}
 						>
 							<div className="text-[70px] tracking-[-0.09em]">somienn</div>
-							<div className="text-[20px] italic">Bookeeping & Payroll</div>
+							<div className="text-[20px] italic">Bookkeeping & Payroll</div>
+						</div>
+						<div
+							className="mt-4 flex flex-col gap-2 items-center text-[#fed11f] justify-center text-sm"
+							style={{ fontFamily: "var(--font-amaranth)" }}
+						>
+							<div className="flex gap-2">
+								<img
+									className="w-full h-auto max-w-[20px]"
+									src={phone.src}
+								/>
+								<div>(906) 450-2980</div>
+							</div>
+							<div className="flex gap-2">
+								<img
+									className="w-full h-auto max-w-[30px]"
+									src={email.src}
+								/>
+								<div>hello@somienn.com</div>
+							</div>
 						</div>
 					</div>
 					<div
@@ -72,8 +93,24 @@ export const Footer = () => {
 						className={`flex flex-col w-full relative justify-center items-center text-center text-[#fed11f]`}
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
-						<div className="text-[70px] tracking-[-0.09em]">somienn</div>
-						<div className="text-[20px] italic">Bookeeping & Payroll</div>
+						<div className="text-[70px] tracking-[-0.09em] -mb-5">somienn</div>
+						<div className="text-[18px] italic">Bookkeeping & Payroll</div>
+						<div className="mt-4 flex flex-col gap-2 items-center justify-center">
+							<div className="flex gap-2">
+								<img
+									className="w-full h-auto max-w-[20px]"
+									src={phone.src}
+								/>
+								<div>(906) 450-2980</div>
+							</div>
+							<div className="flex gap-2">
+								<img
+									className="w-full h-auto max-w-[30px]"
+									src={email.src}
+								/>
+								<div>hello@somienn.com</div>
+							</div>
+						</div>
 					</div>
 				</div>
 				<div
