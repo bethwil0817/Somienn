@@ -124,7 +124,7 @@ export const About = () => {
 			<Nav />
 			<div className="overflow-x-hidden! m-8 rounded-[1rem]">
 				<div
-					className={`py-8 md:py-15 border-b border-b-[#fed11f] text-center text-[#545454] text-[110px]`}
+					className={`py-8 md:py-15 border-b border-b-[#fed11f] text-center text-[#545454] text-[80px] sm:text-[110px]`}
 					style={{ fontFamily: "var(--font-amaranth)" }}
 				>
 					<Reveal>
@@ -138,7 +138,7 @@ export const About = () => {
 				</div>
 				<Reveal delayVal={1}>
 					<div
-						className="text-[50px] text-center pt-6 md:pt-15 mb-6 md:mb-15"
+						className="text-[40px] md:text-[50px] text-center pt-6 md:pt-15 mb-6 md:mb-15"
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
 						Meet Our Team
@@ -178,11 +178,11 @@ export const About = () => {
 					</div>
 				</Reveal>
 				{selectedMember === "Chris" && (
-					<div className="mx-6 md:mx-10 rounded-2xl flex flex-col mt-2 md:mt-5">
+					<div className="md:mx-10 rounded-2xl flex flex-col mt-2 md:mt-5">
 						<div className="text-center">
 							<Reveal>
 								<h1
-									className={`pt-4 pb-0 px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-[25px] md:text-[35px]`}
+									className={`pt-4 pb-0 font-bold hover:cursor-pointer text-[#545454] text-[25px] md:text-[35px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									{data?.heading}
@@ -190,7 +190,7 @@ export const About = () => {
 							</Reveal>
 							<Reveal>
 								<h4
-									className={`px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-base md:text-[20px]`}
+									className={`font-bold hover:cursor-pointer text-[#545454] text-base md:text-[20px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									{data?.paren}
@@ -219,11 +219,11 @@ export const About = () => {
 					</div>
 				)}
 				{selectedMember === "Jeannye" && (
-					<div className="mx-6 md:mx-10 rounded-2xl flex flex-col mt-2 md:mt-5">
+					<div className="md:mx-10 rounded-2xl flex flex-col mt-2 md:mt-5">
 						<div className="text-center">
 							<Reveal>
 								<h1
-									className={`pt-4 pb-0 px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454]  
+									className={`pt-4 pb-0 font-bold hover:cursor-pointer text-[#545454]  
                                     text-[25px] md:text-[30px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
@@ -232,7 +232,7 @@ export const About = () => {
 							</Reveal>
 							<Reveal>
 								<h4
-									className={`px-6 md:px-10 font-bold hover:cursor-pointer text-[#545454] text-base md:text-[20px]`}
+									className={`font-bold hover:cursor-pointer text-[#545454] text-base md:text-[20px]`}
 									style={{ fontFamily: "var(--font-amaranth)" }}
 								>
 									{data?.paren}
