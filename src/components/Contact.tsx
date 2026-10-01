@@ -1,6 +1,9 @@
 import { Footer } from "./Footer";
 import { Nav } from "./Nav";
 import { Reveal } from "./Reveal";
+import phone from "../images/phonetran.png";
+import email from "../images/emailtran.png";
+import clock from "../images/clock.png";
 
 export const Contact = () => {
 	return (
@@ -9,7 +12,7 @@ export const Contact = () => {
 			<div className="mb-15 px-6">
 				<Reveal>
 					<div
-						className={`pt-8 md:pt-15 pb-6 text-center text-[#545454] text-[75px] md:text-[110px]`}
+						className={`pt-8 md:pt-15 pb-4 text-center text-[#545454] text-[75px] md:text-[110px]`}
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
 						Contact Us
@@ -17,7 +20,35 @@ export const Contact = () => {
 				</Reveal>
 				<Reveal>
 					<div
-						className={`pb-6 text-center text-[#fed11f] text-[30px] md:text-[50px]`}
+						className="flex flex-col my-8 place-content-center gap-6 items-center justify-center text-xl md:text-2xl"
+						style={{ fontFamily: "var(--font-amaranth)" }}
+					>
+						<div className="flex gap-2 mx-auto">
+							<img
+								className="w-full items-center h-auto max-w-[30px]"
+								src={phone.src}
+							/>
+							<div className="text-[#545454]">(906) 450-2980</div>
+						</div>
+						<div className="flex items-center gap-2">
+							<img
+								className="w-full h-auto max-w-[50px]"
+								src={email.src}
+							/>
+							<div className="text-[#545454]">hello@somienn.com</div>
+						</div>
+						<div className="flex items-center gap-2">
+							<img
+								className="w-full h-auto max-w-[40px]"
+								src={clock.src}
+							/>
+							<div className="text-[#545454]">Mon-Fri 9AM-3PM</div>
+						</div>
+					</div>
+				</Reveal>
+				<Reveal>
+					<div
+						className={`mt-8 pb-6 text-center text-[#fed11f] text-[30px] md:text-[50px]`}
 						style={{ fontFamily: "var(--font-amaranth)" }}
 					>
 						Schedule a phone call with us!

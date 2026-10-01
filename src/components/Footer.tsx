@@ -4,6 +4,7 @@ import badge2 from "../images/badge2.png";
 import badge3 from "../images/badge3.png";
 import phone from "../images/phonetran.png";
 import email from "../images/emailtran.png";
+import clock from "../images/clock.png";
 
 export const Footer = () => {
 	return (
@@ -54,6 +55,13 @@ export const Footer = () => {
 									src={email.src}
 								/>
 								<div>hello@somienn.com</div>
+							</div>
+							<div className="flex items-center gap-2">
+								<img
+									className="w-full h-auto max-w-[20px]"
+									src={clock.src}
+								/>
+								<div>Mon-Fri 9AM-3PM</div>
 							</div>
 						</div>
 					</div>
@@ -111,6 +119,13 @@ export const Footer = () => {
 									src={email.src}
 								/>
 								<div>hello@somienn.com</div>
+							</div>
+							<div className="flex items-center gap-2">
+								<img
+									className="w-full h-auto max-w-[20px]"
+									src={clock.src}
+								/>
+								<div>Mon-Fri 9AM-3PM</div>
 							</div>
 						</div>
 					</div>
