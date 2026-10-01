@@ -213,18 +213,24 @@ export const App = () => {
 					className="bg-white px-6 py-6 md:py-10 mt-0 md:mt-20 mb-5 mx-auto max-w-[1200px]"
 					style={{ fontFamily: "var(--font-amaranth)" }}
 				>
-					<div className="font-bold  text-[30px] md:text-[45px] text-center tracking-wide text-[#fed11f]">
-						What People Say
-					</div>
-					<div className="flex px-6 flex-coltext-center text-center gap-8 mt-6 justify-center text-[20px] md:text-[25px] w-full mx-auto items-center max-w-[1200px] text-[#545454]">
-						"I can't recommend these two ladies enough. They constantly went
-						went above and beyond whenever I worked with either of them. They
-						have a wonderful attitude and personality. You will not be
-						disappointed in trusting them with your bookkeeping."
-					</div>
-					<div className="flex px-6 flex-col text-center text-[#fed11f] text-center gap-8 mt-6 justify-center text-[20px] md:text-[25px] w-full mx-auto items-center max-w-[1200px]">
-						~ Carrie
-					</div>
+					<Reveal>
+						<div className="font-bold  text-[30px] md:text-[45px] text-center tracking-wide text-[#fed11f]">
+							What People Say
+						</div>
+					</Reveal>
+					<Reveal>
+						<div className="flex px-6 flex-coltext-center text-center gap-8 mt-6 justify-center text-[20px] md:text-[25px] w-full mx-auto items-center max-w-[1200px] text-[#545454]">
+							"I can't recommend these two ladies enough. They constantly went
+							went above and beyond whenever I worked with either of them. They
+							have a wonderful attitude and personality. You will not be
+							disappointed in trusting them with your bookkeeping."
+						</div>
+					</Reveal>
+					<Reveal>
+						<div className="flex px-6 flex-col text-center text-[#fed11f] text-center gap-8 mt-6 justify-center text-[20px] md:text-[25px] w-full mx-auto items-center max-w-[1200px]">
+							~ Carrie
+						</div>
+					</Reveal>
 				</div>
 			</div>
 			<Footer />
