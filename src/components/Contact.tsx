@@ -114,7 +114,7 @@ export const Contact = () => {
 						Schedule Now for a Free Consultation
 					</a>
 				</Reveal>
-				<div className="max-w-[1200px] border-t border-t-gray-300 mt-30 p-6 pt-10 text-center place-items-center mx-auto">
+				<div className="max-w-[1200px] border-t border-t-gray-300 mt-30 pt-10 text-center place-items-center mx-auto">
 					<Reveal>
 						<div
 							className=" text-[25px] md:text-[30px] tracking-wide text-center text-[#545454] mt-0 md:mt-10"
@@ -198,7 +198,7 @@ export const Contact = () => {
 						</div>
 					</Reveal>
 				</div>
-				<div className="mt-25 p-4 border-t border-t-gray-300">
+				<div className="mt-25 border-t border-t-gray-300">
 					<Reveal>
 						<div
 							className={`text-center text-[#fed11f] text-[30px] md:text-[50px] p-4`}

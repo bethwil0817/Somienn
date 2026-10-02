@@ -1,7 +1,8 @@
 import Link from "next/link";
 import badge from "../images/badge.png";
-import badge2 from "../images/badge2.png";
 import badge3 from "../images/badge3.png";
+import badgeGold from "../images/badgegold.png";
+import workforceBadge from "../images/workforcebadge.png";
 import phone from "../images/phonetran.png";
 import email from "../images/emailtran.png";
 import clock from "../images/clock.png";
@@ -9,22 +10,27 @@ import clock from "../images/clock.png";
 export const Footer = () => {
 	return (
 		<div className="bg-[#fed11f] p-2">
-			<div className="bg-[#545454] p-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 rounded-lg">
-				<div className="grid grid-cols-1 grid-cols-3 place-items-center align-middle h-full relative w-full my-auto gap-4 md:border-r md:border-r-[#fed11f]">
+			<div className="bg-[#545454] p-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 rounded-lg">
+				<div className="grid grid-cols-1 grid-cols-2 place-items-center align-middle h-full relative w-full my-auto gap-1 md:border-r md:border-r-[#fed11f]">
 					<img
-						src={badge2.src}
+						src={badgeGold.src}
 						loading="lazy"
-						className="w-auto h-auto max-h-[150px] md:max-h-none"
+						className="w-auto h-auto max-w-[80px] sm:max-w-[100px] md:max-h-none"
+					/>
+					<img
+						src={workforceBadge.src}
+						loading="lazy"
+						className="w-auto h-auto max-w-[80px] sm:max-w-[100px] md:max-h-none"
 					/>
 					<img
 						src={badge3.src}
 						loading="lazy"
-						className="w-auto h-auto max-h-[150px] md:max-h-none"
+						className="w-auto h-auto max-w-[95px] sm:max-w-[120px] md:max-h-none"
 					/>
 					<img
 						src={badge.src}
 						loading="lazy"
-						className="w-auto h-auto max-h-[150px] md:max-h-none"
+						className="w-auto h-auto max-w-[95px] sm:max-w-[120px] md:max-h-none"
 					/>
 				</div>
 				<div className="block lg:hidden p-4 place-items-center">
