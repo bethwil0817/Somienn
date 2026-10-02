@@ -4,72 +4,43 @@ import { Reveal } from "./Reveal";
 import phone from "../images/phonetran.png";
 import email from "../images/emailtran.png";
 import clock from "../images/clock.png";
-import HCaptcha from "@hcaptcha/react-hcaptcha";
 import { useRef, useState, type FormEvent } from "react";
 
 export const Contact = () => {
+	const [honeypot, setHoneypot] = useState("");
 	const [revealSuccess, setRevealSuccess] = useState(false);
 	const [result, setResult] = useState("");
 
-	const [captchaToken, setCaptchaToken] = useState<string | null>(null);
-	const captchaRef = useRef<HCaptcha | null>(null);
-
-	// Handlers for the captcha checkbox interactions
-	const handleVerification = (token: string) => {
-		setCaptchaToken(token); // Token generated successfully
-	};
-
-	const handleExpire = () => {
-		setCaptchaToken(null); // Clear token if user takes too long to submit
-	};
-
 	// Swap out your old onSubmit function with this updated TypeScript version:
-	const onSubmit = async (event: FormEvent<HTMLFormElement>) => {
+	const onSubmit = async (event) => {
 		event.preventDefault();
-
-		// 1. Move the validation check to the top so we don't say "Sending..." if they missed the box
-		if (!captchaToken) {
-			alert("Please complete the hCaptcha verification check.");
-			return;
-		}
-
 		setResult("Sending....");
-
-		// 2. Safely capture the form target element reference
-		const formElement = event.currentTarget;
-		const formData = new FormData(formElement);
-
-		// 3. Append your Web3Forms configurations and the generated hCaptcha token
+		const formData = new FormData(event.target);
 		formData.append("access_key", "e95fbc76-3cc4-4ee6-bca6-028408c56160");
-		formData.append("h-captcha-response", captchaToken);
 
-		try {
+		if (honeypot !== "") {
+			setTimeout(() => {
+				setRevealSuccess(true);
+				setResult("Form Submitted Successfully");
+				event.currentTarget.reset();
+				setHoneypot(""); // reset the honeypot state
+			}, 1000);
+			return; // Stop execution right here
+		} else {
 			const response = await fetch("https://api.web3forms.com/submit", {
 				method: "POST",
-				headers: {
-					Accept: "application/json",
-				},
 				body: formData,
 			});
 
 			const data = await response.json();
-
 			if (data.success) {
 				setRevealSuccess(true);
 				setResult("Form Submitted Successfully");
-
-				// 4. Safely clear the inputs and the active states
-				formElement.reset();
-				setCaptchaToken(null);
-				captchaRef.current?.resetCaptcha(); // Unchecks the box for the next submission
+				event.target.reset();
 			} else {
 				setRevealSuccess(false);
-				setResult(data.message || "Error submitting form.");
+				setResult("Error");
 			}
-		} catch (error) {
-			console.error("Submission error:", error);
-			setRevealSuccess(false);
-			setResult("Network error. Please try again.");
 		}
 	};
 
@@ -178,6 +149,21 @@ export const Contact = () => {
 									id="name"
 									required
 								/>
+								<div
+									style={{ display: "none" }}
+									aria-hidden="true"
+								>
+									<label htmlFor="mid_name">Middle Name</label>
+									<input
+										id="mid_name"
+										type="text"
+										name="mid_name"
+										tabIndex={-1} // Prevents keyboard users from accidentally tabbing into it
+										autoComplete="off"
+										value={honeypot}
+										onChange={(e) => setHoneypot(e.target.value)}
+									/>
+								</div>
 								<label>Email Address:</label>
 								<input
 									className="border bg-white border-gray-300 rounded-lg p-2"
@@ -193,17 +179,10 @@ export const Contact = () => {
 									id="message"
 									required
 								/>
-								<div className="py-2 overflow-scroll">
-									<HCaptcha
-										ref={captchaRef}
-										sitekey="50b2fe65-b00b-4b9e-ad62-3ba471098be2"
-										onVerify={handleVerification}
-										onExpire={handleExpire}
-									/>
-								</div>
 								<button
 									className="mt-4 hover:cursor-pointer p-2 whitespace-nowrap rounded-lg text-base flex justify-center w-[150px] text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
 									type="submit"
+									disabled={result === "Sending...."}
 								>
 									Submit
 								</button>

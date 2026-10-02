@@ -13,9 +13,7 @@
       "Segoe UI Symbol", "Noto Color Emoji";
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
-    --color-green-500: oklch(72.3% 0.219 149.579);
     --color-green-700: oklch(52.7% 0.154 150.069);
-    --color-green-800: oklch(44.8% 0.119 151.328);
     --color-gray-100: oklch(96.7% 0.003 264.542);
     --color-gray-300: oklch(87.2% 0.01 258.338);
     --color-black: #000;
@@ -31,8 +29,6 @@
     --text-xl--line-height: calc(1.75 / 1.25);
     --text-2xl: 1.5rem;
     --text-2xl--line-height: calc(2 / 1.5);
-    --text-3xl: 1.875rem;
-    --text-3xl--line-height: calc(2.25 / 1.875);
     --text-4xl: 2.25rem;
     --text-4xl--line-height: calc(2.5 / 2.25);
     --font-weight-normal: 400;
@@ -307,9 +303,6 @@
   .mb-6 {
     margin-bottom: calc(var(--spacing) * 6);
   }
-  .mb-8 {
-    margin-bottom: calc(var(--spacing) * 8);
-  }
   .mb-15 {
     margin-bottom: calc(var(--spacing) * 15);
   }
@@ -364,9 +357,6 @@
   .w-\[150px\] {
     width: 150px;
   }
-  .w-\[250px\]\! {
-    width: 250px !important;
-  }
   .w-auto {
     width: auto;
   }
@@ -402,9 +392,6 @@
   }
   .max-w-\[170px\] {
     max-width: 170px;
-  }
-  .max-w-\[250px\] {
-    max-width: 250px;
   }
   .max-w-\[300px\] {
     max-width: 300px;
@@ -503,9 +490,6 @@
   .overflow-x-hidden\! {
     overflow-x: hidden !important;
   }
-  .rounded {
-    border-radius: 0.25rem;
-  }
   .rounded-2xl {
     border-radius: var(--radius-2xl);
   }
@@ -563,9 +547,6 @@
   }
   .bg-\[\#fed11f\] {
     background-color: #fed11f;
-  }
-  .bg-\[\#ffe993\] {
-    background-color: #ffe993;
   }
   .bg-\[\#ffea99\] {
     background-color: #ffea99;
@@ -654,14 +635,6 @@
   .align-middle {
     vertical-align: middle;
   }
-  .text-2xl {
-    font-size: var(--text-2xl);
-    line-height: var(--tw-leading, var(--text-2xl--line-height));
-  }
-  .text-3xl {
-    font-size: var(--text-3xl);
-    line-height: var(--tw-leading, var(--text-3xl--line-height));
-  }
   .text-4xl {
     font-size: var(--text-4xl);
     line-height: var(--tw-leading, var(--text-4xl--line-height));
@@ -712,9 +685,6 @@
   .text-\[95px\] {
     font-size: 95px;
   }
-  .text-\[100px\] {
-    font-size: 100px;
-  }
   .font-bold {
     --tw-font-weight: var(--font-weight-bold);
     font-weight: var(--font-weight-bold);
@@ -751,14 +721,8 @@
   .text-black {
     color: var(--color-black);
   }
-  .text-green-500 {
-    color: var(--color-green-500);
-  }
   .text-green-700 {
     color: var(--color-green-700);
-  }
-  .text-green-800 {
-    color: var(--color-green-800);
   }
   .text-white {
     color: var(--color-white);
@@ -815,14 +779,8 @@
     .hover\:cursor-pointer:hover {
       cursor: pointer;
     }
-    .hover\:bg-\[\#7d7c7c\]:hover {
-      background-color: #7d7c7c;
-    }
     .hover\:bg-\[\#ffe993\]:hover {
       background-color: #ffe993;
-    }
-    .hover\:bg-\[\#fff1b9\]:hover {
-      background-color: #fff1b9;
     }
     .hover\:bg-\[\#fff6d0\]:hover {
       background-color: #fff6d0;
@@ -870,9 +828,6 @@
     }
     .md\:mt-10 {
       margin-top: calc(var(--spacing) * 10);
-    }
-    .md\:mt-20 {
-      margin-top: calc(var(--spacing) * 20);
     }
     .md\:mb-15 {
       margin-bottom: calc(var(--spacing) * 15);
@@ -1013,12 +968,6 @@
     .hover\:\[\&_h1\]\:text-\[24px\]:hover h1 {
       font-size: 24px;
     }
-  }
-  .\[\&_iframe\]\:w-\[250px\]\! iframe {
-    width: 250px !important;
-  }
-  .\[\&_iframe\]\:max-w-\[250px\] iframe {
-    max-width: 250px;
   }
 }
 .cursive {
