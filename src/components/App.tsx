@@ -2,14 +2,81 @@ import wallpaper3 from "../images/wallpaper3.png";
 import biopic from "../images/jandchome.png";
 import quickLogo from "../images/quickbooks.png";
 import graph from "../images/graph.png";
+import HCaptcha from "@hcaptcha/react-hcaptcha";
 
 import { Footer } from "./Footer";
 import { Nav } from "./Nav";
 import { Reveal } from "./Reveal";
+import { useRef, useState, type FormEvent } from "react";
 
 export const App = () => {
 	const yellow = "#fed11f";
 	const gray = "#545454";
+	const [result, setResult] = useState("");
+
+	const [captchaToken, setCaptchaToken] = useState<string | null>(null);
+	const captchaRef = useRef<HCaptcha | null>(null);
+
+	// Handlers for the captcha checkbox interactions
+	const handleVerification = (token: string) => {
+		setCaptchaToken(token); // Token generated successfully
+	};
+
+	const handleExpire = () => {
+		setCaptchaToken(null); // Clear token if user takes too long to submit
+	};
+
+	// Swap out your old onSubmit function with this updated TypeScript version:
+	const onSubmit = async (event: FormEvent<HTMLFormElement>) => {
+		event.preventDefault();
+
+		// 1. Move the validation check to the top so we don't say "Sending..." if they missed the box
+		if (!captchaToken) {
+			alert("Please complete the hCaptcha verification check.");
+			return;
+		}
+
+		setResult("Sending....");
+
+		// 2. Safely capture the form target element reference
+		const formElement = event.currentTarget;
+		const formData = new FormData(formElement);
+
+		// 3. Append your Web3Forms configurations and the generated hCaptcha token
+		formData.append("access_key", "e95fbc76-3cc4-4ee6-bca6-028408c56160");
+		formData.append("h-captcha-response", captchaToken);
+
+		try {
+			const response = await fetch("https://api.web3forms.com/submit", {
+				method: "POST",
+				headers: {
+					Accept: "application/json",
+				},
+				body: formData,
+			});
+
+			const data = await response.json();
+
+			if (data.success) {
+				setRevealSuccess(true);
+				setResult("Form Submitted Successfully");
+
+				// 4. Safely clear the inputs and the active states
+				formElement.reset();
+				setCaptchaToken(null);
+				captchaRef.current?.resetCaptcha(); // Unchecks the box for the next submission
+			} else {
+				setRevealSuccess(false);
+				setResult(data.message || "Error submitting form.");
+			}
+		} catch (error) {
+			console.error("Submission error:", error);
+			setRevealSuccess(false);
+			setResult("Network error. Please try again.");
+		}
+	};
+
+	const [revealSuccess, setRevealSuccess] = useState(false);
 
 	return (
 		<div>
@@ -208,9 +275,86 @@ export const App = () => {
 							Schedule Now for a Free Consultation
 						</a>
 					</Reveal>
+
+					<div className="max-w-[1200px] border-t border-t-gray-300 mt-30 pt-10 text-center place-items-center mx-auto">
+						<Reveal>
+							<div
+								className=" text-[25px] md:text-[30px] tracking-wide text-center text-[#545454] mt-0 md:mt-10"
+								style={{ fontFamily: "var(--font-amaranth)" }}
+							>
+								Grab our <strong>free</strong> 1-Page Cheat Sheet: "10
+								Tax-Deductible Business Expenses You Might Be Forgetting"
+							</div>
+						</Reveal>
+						<Reveal>
+							<div>
+								<div
+									className="mt-4"
+									style={{ fontFamily: "var(--font-open-sans)" }}
+								>
+									Keep your books accurate, maximize your write-offs, and take
+									the stress out of tax season. Enter your email to instantly
+									download the PDF.
+								</div>
+							</div>
+						</Reveal>
+						<Reveal>
+							<div className="bg-gray-100 text-left p-4 mt-8 rounded-xl max-w-[700px] mx-auto">
+								<form
+									className="flex flex-col"
+									onSubmit={onSubmit}
+								>
+									<label>First Name:</label>
+									<input
+										className="border mb-4 bg-white border-gray-300 rounded-lg p-2"
+										name="name"
+										type="text"
+										id="name"
+										required
+									/>
+									<label>Email Address:</label>
+									<input
+										className="border bg-white border-gray-300 rounded-lg p-2"
+										name="email"
+										id="email"
+										type="email"
+										required
+									/>
+									<div className="py-2 overflow-scroll">
+										<HCaptcha
+											ref={captchaRef}
+											sitekey="50b2fe65-b00b-4b9e-ad62-3ba471098be2"
+											onVerify={handleVerification}
+											onExpire={handleExpire}
+										/>
+									</div>
+									<button
+										className="mt-4 hover:cursor-pointer p-2 whitespace-nowrap rounded-lg text-base flex justify-center mx-auto text-center bg-[#fed11f] hover:bg-[#ffe993] text-[#545454]"
+										type="submit"
+									>
+										Submit to Recieve PDF
+									</button>
+								</form>
+								{revealSuccess && (
+									<Reveal delayVal={0}>
+										<div className="mt-5 text-[20px] text-green-700">
+											Thanks for you submission!{" "}
+											<a
+												className="underline font-bold"
+												href="https://drive.google.com/file/d/1lnGxryZBGDTSZRWX6vD3YHDgvI808kN0/view?usp=sharing"
+												target="_blank"
+											>
+												Click here to open our PDF
+											</a>
+										</div>
+									</Reveal>
+								)}
+							</div>
+						</Reveal>
+					</div>
 				</div>
 				<div
-					className="bg-white px-6 py-6 md:py-10 mt-0 md:mt-20 mb-5 mx-auto max-w-[1200px]"
+					className="bg-white px-6 py-6 md:py-10 mt-0 md:mt-10 mb-5 mx-auto max-w-[1200px]"
 					style={{ fontFamily: "var(--font-amaranth)" }}
 				>
 					<Reveal>
