@@ -4,7 +4,7 @@ import { Reveal } from "./Reveal";
 import phone from "../images/phonetran.png";
 import email from "../images/emailtran.png";
 import clock from "../images/clock.png";
-import { useRef, useState, type FormEvent } from "react";
+import { useState } from "react";
 
 export const Contact = () => {
 	const [honeypot, setHoneypot] = useState("");
@@ -12,7 +12,7 @@ export const Contact = () => {
 	const [result, setResult] = useState("");
 
 	// Swap out your old onSubmit function with this updated TypeScript version:
-	const onSubmit = async (event) => {
+	const onSubmit = async (event: any) => {
 		event.preventDefault();
 		setResult("Sending....");
 		const formData = new FormData(event.target);

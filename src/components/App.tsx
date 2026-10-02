@@ -2,12 +2,11 @@ import wallpaper3 from "../images/wallpaper3.png";
 import biopic from "../images/jandchome.png";
 import quickLogo from "../images/quickbooks.png";
 import graph from "../images/graph.png";
-import HCaptcha from "@hcaptcha/react-hcaptcha";
 
 import { Footer } from "./Footer";
 import { Nav } from "./Nav";
 import { Reveal } from "./Reveal";
-import { useRef, useState, type FormEvent } from "react";
+import { useState } from "react";
 
 export const App = () => {
 	const yellow = "#fed11f";
@@ -17,7 +16,7 @@ export const App = () => {
 	const [result, setResult] = useState("");
 
 	// Swap out your old onSubmit function with this updated TypeScript version:
-	const onSubmit = async (event) => {
+	const onSubmit = async (event: any) => {
 		event.preventDefault();
 		setResult("Sending....");
 		const formData = new FormData(event.target);
