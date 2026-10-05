@@ -1,27 +1,36 @@
-"use client";
-import { useEffect, useState } from "react";
-import React from "react";
+import type { Metadata } from "next";
+import "../../styles/globals.css";
 import { Contact } from "../../components/Contact";
 
+export const metadata: Metadata = {
+	metadataBase: new URL("https://someinn.com"),
+	title: "Contact Someinn | Bookkeeping & Payroll Support",
+	description:
+		"Contact Someinn to schedule a free consultation or ask a bookkeeping or payroll question. Our team serves small businesses remotely across the U.S.",
+	alternates: {
+		canonical: "/contact",
+	},
+	openGraph: {
+		type: "website",
+		url: "/contact",
+		siteName: "Someinn",
+		title: "Contact Someinn | Bookkeeping & Payroll Support",
+		description:
+			"Contact Someinn to schedule a free consultation or ask a bookkeeping or payroll question. Our team serves small businesses remotely across the U.S.",
+	},
+	robots: {
+		index: true, // Allow indexing
+		follow: true, // Follow links
+		googleBot: {
+			index: true,
+			follow: true,
+			"max-video-preview": -1,
+			"max-image-preview": "large",
+			"max-snippet": -1,
+		},
+	},
+};
+
 export default function NextContactPage() {
-	const [mounted, setMounted] = useState(false);
-
-	useEffect(() => {
-		setMounted(true);
-	}, []);
-
-	if (!mounted) {
-		return (
-			<div
-				style={{
-					minHeight: "100vh",
-					width: "100%",
-					background:
-						"linear-gradient(45deg, rgb(255,255,255), rgb(255,255,255)",
-				}}
-			/>
-		);
-	}
-
 	return <Contact />;
 }

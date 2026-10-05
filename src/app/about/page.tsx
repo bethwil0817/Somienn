@@ -1,26 +1,36 @@
-"use client";
-import { useEffect, useState } from "react";
+import type { Metadata } from "next";
+import "../../styles/globals.css";
 import { About } from "@/src/components/About";
 
+export const metadata: Metadata = {
+	metadataBase: new URL("https://someinn.com"),
+	title: "Meet the Someinn Team | About Someinn",
+	description:
+		"Get to know Jeannye and Chris, the team behind Someinn, and our people-first approach to bookkeeping and payroll for small businesses.",
+	alternates: {
+		canonical: "/about",
+	},
+	openGraph: {
+		type: "website",
+		url: "/about",
+		siteName: "Someinn",
+		title: "Meet the Someinn Team | About Someinn",
+		description:
+			"Get to know Jeannye and Chris, the team behind Someinn, and our people-first approach to bookkeeping and payroll for small businesses.",
+	},
+	robots: {
+		index: true, // Allow indexing
+		follow: true, // Follow links
+		googleBot: {
+			index: true,
+			follow: true,
+			"max-video-preview": -1,
+			"max-image-preview": "large",
+			"max-snippet": -1,
+		},
+	},
+};
+
 export default function NextAboutPage() {
-	const [mounted, setMounted] = useState(false);
-
-	useEffect(() => {
-		setMounted(true);
-	}, []);
-
-	if (!mounted) {
-		return (
-			<div
-				style={{
-					minHeight: "100vh",
-					width: "100%",
-					background:
-						"linear-gradient(45deg, rgb(255,255,255), rgb(255,255,255)",
-				}}
-			/>
-		);
-	}
-
 	return <About />;
 }

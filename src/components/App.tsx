@@ -1,3 +1,4 @@
+"use client";
 import wallpaper3 from "../images/wallpaper3.png";
 import biopic from "../images/jandchome.png";
 import quickLogo from "../images/quickbooks.png";
@@ -319,7 +320,7 @@ export const App = () => {
 											Thanks for you submission!{" "}
 											<a
 												className="underline font-bold"
-												href="https://drive.google.com/file/d/1lnGxryZBGDTSZRWX6vD3YHDgvI808kN0/view?usp=sharing"
+												href="https://drive.google.com/file/d/1ygGv6wdw-B80PUt_s_1WebpluD_ibxxc/view?usp=sharing"
 												target="_blank"
 											>
 												Click here to open our PDF

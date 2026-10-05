@@ -1,3 +1,4 @@
+"use client";
 import { Footer } from "./Footer";
 import { Nav } from "./Nav";
 import { Reveal } from "./Reveal";
@@ -172,7 +173,7 @@ export const Contact = () => {
 									type="email"
 									required
 								/>
-								<label>Message:</label>
+								<label>Your Question:</label>
 								<textarea
 									className="border bg-white border-gray-300 rounded-lg p-2"
 									name="message"

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "../styles/globals.css";
+import icon from "../images/icon.png";
 import { Amaranth, Open_Sans } from "next/font/google";
 
 const amaranthFont = Amaranth({
@@ -29,6 +30,11 @@ export default function RootLayout({
 			lang="en"
 			className={`${amaranthFont.variable} ${openSansFont.variable}`}
 		>
+			<link
+				rel="icon"
+				type="image"
+				href={icon.src}
+			/>
 			<body>
 				{/* Next.js renders the CatchAllSPA page contents inside here */}
 				{children}
