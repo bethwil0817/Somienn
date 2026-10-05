@@ -167,7 +167,7 @@ export const Contact = () => {
 								</div>
 								<label>Email Address:</label>
 								<input
-									className="border bg-white border-gray-300 rounded-lg p-2"
+									className="border mb-4 bg-white border-gray-300 rounded-lg p-2"
 									name="email"
 									id="email"
 									type="email"
