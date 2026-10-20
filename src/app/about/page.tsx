@@ -3,20 +3,20 @@ import "../../styles/globals.css";
 import { About } from "@/src/components/About";
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://someinn.com"),
-	title: "Meet the Someinn Team | About Someinn",
+	metadataBase: new URL("https://somienn.com"),
+	title: "Meet the Somienn Team | About Somienn",
 	description:
-		"Get to know Jeannye and Chris, the team behind Someinn, and our people-first approach to bookkeeping and payroll for small businesses.",
+		"Get to know Jeannye and Chris, the team behind Somienn, and our people-first approach to bookkeeping and payroll for small businesses.",
 	alternates: {
 		canonical: "/about",
 	},
 	openGraph: {
 		type: "website",
 		url: "/about",
-		siteName: "Someinn",
-		title: "Meet the Someinn Team | About Someinn",
+		siteName: "Somienn",
+		title: "Meet the Somienn Team | About Somienn",
 		description:
-			"Get to know Jeannye and Chris, the team behind Someinn, and our people-first approach to bookkeeping and payroll for small businesses.",
+			"Get to know Jeannye and Chris, the team behind Somienn, and our people-first approach to bookkeeping and payroll for small businesses.",
 	},
 	robots: {
 		index: true, // Allow indexing

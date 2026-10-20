@@ -3,20 +3,20 @@ import { App } from "../components/App";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://someinn.com"),
+	metadataBase: new URL("https://somienn.com"),
 	title: {
-		default: "Bookkeeping & Payroll Services | Someinn",
-		template: "%s | Someinn",
+		default: "Bookkeeping & Payroll Services | Somienn",
+		template: "%s | Somienn",
 	},
 	description:
-		"Someinn is a bookkeeping and payroll services company that provides expert financial solutions for small businesses. Our team of experienced professionals helps you manage your finances, streamline your operations, and ensure compliance with tax regulations. We offer personalized services tailored to your business needs, including bookkeeping, payroll processing, tax preparation, and financial consulting. With Someinn, you can focus on growing your business while we take care of the numbers.",
+		"Somienn is a bookkeeping and payroll services company that provides expert financial solutions for small businesses. Our team of experienced professionals helps you manage your finances, streamline your operations, and ensure compliance with tax regulations. We offer personalized services tailored to your business needs, including bookkeeping, payroll processing, tax preparation, and financial consulting. With Somienn, you can focus on growing your business while we take care of the numbers.",
 	openGraph: {
 		type: "website",
 		url: "/",
-		siteName: "Someinn",
-		title: "Sominn | Bookkeeping & Payroll Services",
+		siteName: "Somienn",
+		title: "Somienn | Bookkeeping & Payroll Services",
 		description:
-			"Someinn is a bookkeeping and payroll services company that provides expert financial solutions for small businesses. Our team of experienced professionals helps you manage your finances, streamline your operations, and ensure compliance with tax regulations.",
+			"Somienn is a bookkeeping and payroll services company that provides expert financial solutions for small businesses. Our team of experienced professionals helps you manage your finances, streamline your operations, and ensure compliance with tax regulations.",
 	},
 	keywords: [
 		"bookkeeping",

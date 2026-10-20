@@ -3,20 +3,20 @@ import "../../styles/globals.css";
 import { Contact } from "../../components/Contact";
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://someinn.com"),
-	title: "Contact Someinn | Bookkeeping & Payroll Support",
+	metadataBase: new URL("https://somienn.com"),
+	title: "Contact Somienn | Bookkeeping & Payroll Support",
 	description:
-		"Contact Someinn to schedule a free consultation or ask a bookkeeping or payroll question. Our team serves small businesses remotely across the U.S.",
+		"Contact Somienn to schedule a free consultation or ask a bookkeeping or payroll question. Our team serves small businesses remotely across the U.S.",
 	alternates: {
 		canonical: "/contact",
 	},
 	openGraph: {
 		type: "website",
 		url: "/contact",
-		siteName: "Someinn",
-		title: "Contact Someinn | Bookkeeping & Payroll Support",
+		siteName: "Somienn",
+		title: "Contact Somienn | Bookkeeping & Payroll Support",
 		description:
-			"Contact Someinn to schedule a free consultation or ask a bookkeeping or payroll question. Our team serves small businesses remotely across the U.S.",
+			"Contact Somienn to schedule a free consultation or ask a bookkeeping or payroll question. Our team serves small businesses remotely across the U.S.",
 	},
 	robots: {
 		index: true, // Allow indexing
