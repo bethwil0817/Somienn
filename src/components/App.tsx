@@ -210,6 +210,7 @@ export const App = () => {
 									onClick={() => {
 										window.open("https://quickbooks.intuit.com/accountants/");
 									}}
+									alt="Quick Books Logo and Link"
 									loading="lazy"
 									src={quickLogo.src}
 								/>
@@ -275,7 +276,7 @@ export const App = () => {
 									className="flex flex-col"
 									onSubmit={onSubmit}
 								>
-									<label>First Name:</label>
+									<label htmlFor="name">First Name:</label>
 									<input
 										className="border mb-4 bg-white border-gray-300 rounded-lg p-2"
 										name="name"
@@ -298,7 +299,7 @@ export const App = () => {
 											onChange={(e) => setHoneypot(e.target.value)}
 										/>
 									</div>
-									<label>Email Address:</label>
+									<label htmlFor="email">Email Address:</label>
 									<input
 										className="border bg-white border-gray-300 rounded-lg p-2"
 										name="email"
@@ -317,7 +318,7 @@ export const App = () => {
 								{revealSuccess && (
 									<Reveal delayVal={0}>
 										<div className="mt-5 text-center text-[20px] text-green-700">
-											Thanks for you submission!{" "}
+											Thanks for your submission!{" "}
 											<a
 												className="underline font-bold"
 												href="https://drive.google.com/file/d/1ygGv6wdw-B80PUt_s_1WebpluD_ibxxc/view?usp=sharing"

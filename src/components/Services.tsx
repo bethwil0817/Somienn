@@ -111,6 +111,7 @@ export const Services = () => {
 							<img
 								className="w-full h-auto max-w-[150px] mx-auto text-center"
 								src={peace.src}
+								alt="Peace Icon"
 							/>
 						</div>
 					</Reveal>
@@ -154,6 +155,7 @@ export const Services = () => {
 							<img
 								className="w-full h-auto max-w-[80px] mx-auto"
 								src={location.src}
+								alt="Location Icon"
 							/>
 						</div>
 					</Reveal>
@@ -206,6 +208,7 @@ export const Services = () => {
 						<img
 							className="w-full h-auto mx-auto max-w-[170px] text-center"
 							src={cloud.src}
+							alt="Cloud Icon"
 						/>
 					</Reveal>
 					<Reveal>
@@ -236,6 +239,7 @@ export const Services = () => {
 						<img
 							className="w-full h-auto mx-auto max-w-[120px] text-center"
 							src={health.src}
+							alt="Financial Health Icon"
 						/>
 					</Reveal>
 					<Reveal>
@@ -287,6 +291,7 @@ export const Services = () => {
 							<img
 								className="w-full mx-auto h-auto max-w-[110px] text-center"
 								src={sweep.src}
+								alt="Sweep Icon"
 							/>
 						</div>
 					</Reveal>
@@ -343,6 +348,7 @@ export const Services = () => {
 							<img
 								className="w-full mx-auto h-auto max-w-[120px] text-center"
 								src={reports.src}
+								alt="Reports Icon"
 							/>
 						</div>
 					</Reveal>
@@ -396,6 +402,7 @@ export const Services = () => {
 							<img
 								className="w-full mx-auto h-auto max-w-[110px] text-center"
 								src={auto.src}
+								alt="Automatic Icon"
 							/>
 						</div>
 					</Reveal>

@@ -24,6 +24,7 @@ export const Nav = () => {
 							onClick={() => {
 								setShowMobileMenu(!showMobileMenu);
 							}}
+							aria-label="Home Button"
 						>
 							<svg
 								className="h-10 w-10"

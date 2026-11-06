@@ -202,10 +202,12 @@ export const About = () => {
 							<div className="grid grid grid-cols-1 lg:grid-cols-3 gap-8 mt-6">
 								<div className="w-full ml-auto place-content-center">
 									<img
+										alt="Chris Headshot"
 										src={data?.image}
 										className="w-full h-auto rounded-lg max-w-[350px] hidden lg:flex"
 									/>
 									<img
+										alt="Chris Headshot Mobile"
 										src={data?.imageMobile}
 										className="w-full h-auto rounded-lg flex lg:hidden"
 									/>
@@ -245,10 +247,12 @@ export const About = () => {
 								<div className="w-full ml-auto place-content-center">
 									<img
 										src={data?.image}
+										alt="Jeannye Headshot"
 										className="w-full h-auto rounded-lg max-w-[350px] hidden lg:flex"
 									/>
 									<img
 										src={data?.imageMobile}
+										alt="Jeannye Headshot Mobile"
 										className="w-full h-auto rounded-lg flex lg:hidden"
 									/>
 								</div>

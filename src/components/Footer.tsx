@@ -16,21 +16,25 @@ export const Footer = () => {
 						<img
 							src={badgeGold.src}
 							loading="lazy"
+							alt="Intuit ProAdvisor Gold Certification Badge"
 							className="w-auto h-auto max-w-[80px] sm:max-w-[100px] md:max-h-none"
 						/>
 						<img
 							src={workforceBadge.src}
 							loading="lazy"
+							alt="Intuit ProAdvisor QuickBooks Workforce Certification Badge"
 							className="w-auto h-auto max-w-[80px] sm:max-w-[100px] md:max-h-none"
 						/>
 						<img
 							src={badge3.src}
 							loading="lazy"
+							alt="Intuit ProAdvisor QuickBooks Level 1 Certification Badge"
 							className="w-auto h-auto max-w-[95px] sm:max-w-[120px] md:max-h-none"
 						/>
 						<img
 							src={badge.src}
 							loading="lazy"
+							alt="Intuit ProAdvisor QuickBooks Level 2 Certification Badge"
 							className="w-auto h-auto max-w-[95px] sm:max-w-[120px] md:max-h-none"
 						/>
 					</div>
@@ -53,6 +57,7 @@ export const Footer = () => {
 									<img
 										className="w-full h-auto max-w-[20px]"
 										src={phone.src}
+										alt="Phone Icon Mobile"
 									/>
 									<div>(906) 450-2980</div>
 								</div>
@@ -60,6 +65,7 @@ export const Footer = () => {
 									<img
 										className="w-full h-auto max-w-[30px]"
 										src={email.src}
+										alt="Email Icon Mobile"
 									/>
 									<div>hello@somienn.com</div>
 								</div>
@@ -67,6 +73,7 @@ export const Footer = () => {
 									<img
 										className="w-full h-auto max-w-[20px]"
 										src={clock.src}
+										alt="Clock Icon Mobile"
 									/>
 									<div>Mon-Fri 9AM-3PM</div>
 								</div>
@@ -119,6 +126,7 @@ export const Footer = () => {
 									<img
 										className="w-full h-auto max-w-[20px]"
 										src={phone.src}
+										alt="Phone Icon"
 									/>
 									<div>(906) 450-2980</div>
 								</div>
@@ -126,6 +134,7 @@ export const Footer = () => {
 									<img
 										className="w-full h-auto max-w-[30px]"
 										src={email.src}
+										alt="Email Icon"
 									/>
 									<div>hello@somienn.com</div>
 								</div>
@@ -133,6 +142,7 @@ export const Footer = () => {
 									<img
 										className="w-full h-auto max-w-[20px]"
 										src={clock.src}
+										alt="Clock Icon"
 									/>
 									<div>Mon-Fri 9AM-3PM</div>
 								</div>

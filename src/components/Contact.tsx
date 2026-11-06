@@ -66,6 +66,7 @@ export const Contact = () => {
 							<img
 								className="w-full items-center h-auto max-w-[30px]"
 								src={phone.src}
+								alt="Phone Icon"
 							/>
 							<div className="text-[#545454]">(906) 450-2980</div>
 						</div>
@@ -73,6 +74,7 @@ export const Contact = () => {
 							<img
 								className="w-full h-auto max-w-[50px]"
 								src={email.src}
+								alt="Email Icon"
 							/>
 							<div className="text-[#545454]">hello@somienn.com</div>
 						</div>
@@ -80,6 +82,7 @@ export const Contact = () => {
 							<img
 								className="w-full h-auto max-w-[40px]"
 								src={clock.src}
+								alt="Clock Icon"
 							/>
 							<div className="text-[#545454]">Mon-Fri 9AM-3PM</div>
 						</div>
@@ -142,7 +145,7 @@ export const Contact = () => {
 								className="flex flex-col"
 								onSubmit={onSubmit}
 							>
-								<label>First Name:</label>
+								<label htmlFor="name">First Name:</label>
 								<input
 									className="border mb-4 bg-white border-gray-300 rounded-lg p-2"
 									name="name"
@@ -165,7 +168,7 @@ export const Contact = () => {
 										onChange={(e) => setHoneypot(e.target.value)}
 									/>
 								</div>
-								<label>Email Address:</label>
+								<label htmlFor="email">Email Address:</label>
 								<input
 									className="border mb-4 bg-white border-gray-300 rounded-lg p-2"
 									name="email"
@@ -173,7 +176,7 @@ export const Contact = () => {
 									type="email"
 									required
 								/>
-								<label>Your Question:</label>
+								<label htmlFor="message">Your Question:</label>
 								<textarea
 									className="border bg-white border-gray-300 rounded-lg p-2"
 									name="message"
@@ -191,8 +194,8 @@ export const Contact = () => {
 							{revealSuccess && (
 								<Reveal delayVal={0}>
 									<div className="mt-5 text-center text-[20px] text-green-700">
-										Thanks for you submission! We will be in contact with you as
-										soon as we can!
+										Thanks for your submission! We will be in contact with you
+										as soon as we can!
 									</div>
 								</Reveal>
 							)}
@@ -218,6 +221,7 @@ export const Contact = () => {
 									height="450"
 									style={{ border: 0 }}
 									loading="lazy"
+									title="Appleton, Wisconsin Google Maps Location"
 								></iframe>
 							</div>
 						</Reveal>
@@ -230,6 +234,7 @@ export const Contact = () => {
 									height="450"
 									style={{ border: 0 }}
 									loading="lazy"
+									title="Manistique, Michigan Google Maps Location"
 								></iframe>
 							</div>
 						</Reveal>
