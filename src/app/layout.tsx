@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "../styles/globals.css";
 import icon from "../images/icon.png";
 import { Amaranth, Open_Sans } from "next/font/google";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 const amaranthFont = Amaranth({
 	subsets: ["latin"],
@@ -30,12 +31,15 @@ export default function RootLayout({
 			lang="en"
 			className={`${amaranthFont.variable} ${openSansFont.variable}`}
 		>
-			<link
-				rel="icon"
-				type="image"
-				href={icon.src}
-			/>
+			<head>
+				<link
+					rel="icon"
+					type="image"
+					href={icon.src}
+				/>
+			</head>
 			<body>
+				<GoogleTagManager gtmId="GTM-WVZ3S6BH" />
 				{/* Next.js renders the CatchAllSPA page contents inside here */}
 				{children}
 			</body>
